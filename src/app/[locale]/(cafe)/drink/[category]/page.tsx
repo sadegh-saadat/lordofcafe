@@ -1,6 +1,6 @@
 import { getTranslations, setRequestLocale } from "next-intl/server";
 import { notFound } from "next/navigation";
-import { DRINK_GROUPS, DrinkCategory } from "@/_lib/drink-groups";
+import { DRINK_GROUPS, DrinkCategory } from "@/lib/drink-groups";
 import Image from "next/image";
 
 type Props = { params: Promise<{ locale: string; category: string }> };

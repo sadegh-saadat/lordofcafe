@@ -1,6 +1,6 @@
 
 
-import { DRINK_GROUPS } from "@/_lib/drink-groups";
+import { DRINK_GROUPS } from "@/lib/drink-groups";
 import { redirect } from "next/navigation";
 
 type Props = { params: Promise<{ locale: string }> };
