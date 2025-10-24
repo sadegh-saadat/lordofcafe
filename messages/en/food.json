@@ -1,0 +1,48 @@
+{
+  "breakfast": [
+    {"title": "soup of the day", "icon": ""},
+    {"title": "express breakfast", "icon": ""},
+    {"title": "lord of breakfast plate", "icon": ""},
+    {"title": "mixed breakfast", "icon": ""},
+    {"title": "egg bread", "icon": ""},
+    {"title": "pancake plate", "icon": ""},
+    {"title": "fried sausage", "icon": ""},
+    {"title": "Bingöl roasted meat in a casserole", "icon": ""},
+    {"title": "fried halloumi cheese", "icon": ""},
+    {"title": "cheese plate", "icon": ""},
+    {"title": "sausage plate", "icon": ""},
+    {"title": "olive plate", "icon": ""},
+    {"title": "honey-jam", "icon": ""},
+    {"title": "butter", "icon": ""},
+    {"title": "boiled egg", "icon": ""},
+    {"title": "breakfast sauce", "icon": ""}
+  ],
+  "eggs": [
+    {"title": "fried eggs", "icon": ""},
+    {"title": "scrambled eggs", "icon": ""},
+    {"title": "poached eggs", "icon": ""},
+    {"title": "eggs with sucuk", "icon": ""},
+    {"title": "eggs with pastirma", "icon": ""},
+    {"title": "eggs with cheese", "icon": ""}
+  ],
+  "menemen": [
+    {"title": "classic menemen", "icon": ""},
+    {"title": "menemen with sucuk", "icon": ""},
+    {"title": "menemen with pastirma", "icon": ""},
+    {"title": "menemen with cheese", "icon": ""}
+  ],
+  "omelette": [
+    {"title": "classic omelette", "icon": ""},
+    {"title": "omelette with sucuk", "icon": ""},
+    {"title": "omelette with pastirma", "icon": ""},
+    {"title": "omelette with cheese", "icon": ""},
+    {"title": "vegetable omelette", "icon": ""}
+  ],
+  "toast": [
+    {"title": "cheese toast", "icon": ""},
+    {"title": "sucuk toast", "icon": ""},
+    {"title": "pastirma toast", "icon": ""},  
+    {"title": "mixed toast", "icon": ""},
+    {"title": "tuna toast", "icon": ""}
+  ]
+}

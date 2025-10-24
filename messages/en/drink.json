@@ -1,0 +1,134 @@
+{
+  "tea": [
+    {"title": "glass tea", "icon": "/show/tea.jpeg"},
+    {"title": "cup of tea", "icon": "/show/tea.jpeg"},
+    {"title": "apple tea", "icon": "/show/tea.jpeg"},
+    {"title": "blackberry tea", "icon": "/show/tea.jpeg"},
+    {"title": "sage tea", "icon": "/show/tea.jpeg"},
+    {"title": "chamomile tea", "icon": "/show/tea.jpeg"},
+    {"title": "linden", "icon": "/show/tea.jpeg"},
+    {"title": "Island tea", "icon": "/show/tea.jpeg"},
+    {"title": "Winter tea", "icon": "/show/tea.jpeg"},
+    {"title": "fennel tea", "icon": "/show/tea.jpeg"},
+    {"title": "lemon tea", "icon": "/show/tea.jpeg"},
+    {"title": "mint tea", "icon": "/show/tea.jpeg"},
+    {"title": "green tea", "icon": "/show/tea.jpeg"},
+    {"title": "jasmine tea", "icon": "/show/tea.jpeg"},
+    {"title": "flu tea", "icon": "/show/tea.jpeg"},
+    {"title": "daisy tea", "icon": "/show/tea.jpeg"},
+    {"title": "oralet", "icon": "/show/tea.jpeg"}
+  ],
+  "turkishCoffee": [
+    {"title": "Turkish coffee", "icon": "/show/tea.jpeg"},
+    {"title": "mastic gum", "icon": "/show/tea.jpeg"},
+    {"title": "mortar coffee", "icon": "/show/tea.jpeg"},
+    {"title": "ottoman coffee", "icon": "/show/tea.jpeg"},
+    {"title": "Pistachio coffee", "icon": "/show/tea.jpeg"},
+    {"title": "nescafe", "icon": "/show/tea.jpeg"}
+  ],
+  "specialCoffee": [
+    {"title": "espresso", "icon": "/show/tea.jpeg"},
+    {"title": "double espresso", "icon": "/show/tea.jpeg"},
+    {"title": "americano", "icon": "/show/tea.jpeg"},
+    {"title": "cappuccino", "icon": "/show/tea.jpeg"},
+    {"title": "macchiato", "icon": "/show/tea.jpeg"},
+    {"title": "white mocha", "icon": "/show/tea.jpeg"},
+    {"title": "mocha", "icon": "/show/tea.jpeg"},
+    {"title": "pipirit mocha", "icon": "/show/tea.jpeg"},
+    {"title": "latte", "icon": "/show/tea.jpeg"},
+    {"title": "aromall latte", "icon": "/show/tea.jpeg"},
+    {"title": "cappuccino latte", "icon": "/show/tea.jpeg"}
+  ],
+  "regionalCoffee": [
+    {"title": "filter coffee", "icon": "/show/tea.jpeg"},
+    {"title": "colombian coffee", "icon": "/show/tea.jpeg"},
+    {"title": "ethiopian coffee", "icon": "/show/tea.jpeg"},
+    {"title": "kenyan coffee", "icon": "/show/tea.jpeg"},
+    {"title": "guatemalan coffee", "icon": "/show/tea.jpeg"},
+    {"title": "brazilian coffee", "icon": "/show/tea.jpeg"}
+  ],
+  "hotChocolate": [
+    {"title": "hot chocolate", "icon": "/show/tea.jpeg"},
+    {"title": "strawberry chocolate", "icon": "/show/tea.jpeg"},
+    {"title": "banana chocolate", "icon": "/show/tea.jpeg"},
+    {"title": "caramel chocolate", "icon": "/show/tea.jpeg"},
+    {"title": "sahlep", "icon": "/show/tea.jpeg"}
+  ],
+  "coldCoffee": [
+    {"title": "iced americano", "icon": "/show/tea.jpeg"},
+    {"title": "iced latte", "icon": "/show/tea.jpeg"},
+    {"title": "iced cappuccino", "icon": "/show/tea.jpeg"},
+    {"title": "iced mocha", "icon": "/show/tea.jpeg"},
+    {"title": "iced white mocha", "icon": "/show/tea.jpeg"},
+    {"title": "iced pipirit mocha", "icon": "/show/tea.jpeg"},
+    {"title": "coco star", "icon": "/show/tea.jpeg"},
+    {"title": "ice chocolate", "icon": "/show/tea.jpeg"}
+  ],
+  "frappe": [
+    {"title": "classic frappe", "icon": "/show/tea.jpeg"},
+    {"title": "chocolatte frappe", "icon": "/show/tea.jpeg"},
+    {"title": "caramel frappe", "icon": "/show/tea.jpeg"},
+    {"title": "vanilla frappe", "icon": "/show/tea.jpeg"},
+    {"title": "strawberry frappe", "icon": "/show/tea.jpeg"},
+    {"title": "banana frappe", "icon": "/show/tea.jpeg"},
+    {"title": "mocha frappe", "icon": "/show/tea.jpeg"},
+    {"title": "hazelnut frappe", "icon": "/show/tea.jpeg"}
+  ],
+  "milkshake": [
+    {"title": "chocolate milkshake", "icon": "/show/tea.jpeg"},
+    {"title": "vanilla milkshake", "icon": "/show/tea.jpeg"},
+    {"title": "strawberry milkshake", "icon": "/show/tea.jpeg"},
+    {"title": "banana milkshake", "icon": "/show/tea.jpeg"},
+    {"title": "caramel milkshake", "icon": "/show/tea.jpeg"},
+    {"title": "watermelon milkshake", "icon": "/show/tea.jpeg"},
+    {"title": "atom milkshake", "icon": "/show/tea.jpeg"},
+    {"title": "kiwi milkshake", "icon": "/show/tea.jpeg"}
+  ],
+  "smoothie": [
+    {"title": "mango smoothie", "icon": "/show/tea.jpeg"},
+    {"title": "strawberry smoothie", "icon": "/show/tea.jpeg"},
+    {"title": "banana smoothie", "icon": "/show/tea.jpeg"},
+    {"title": "raspberry smoothie", "icon": "/show/tea.jpeg"},
+    {"title": "blackberry smoothie", "icon": "/show/tea.jpeg"},
+    {"title": "black mulberry", "icon": "/show/tea.jpeg"},
+    {"title": "kiwi smoothie", "icon": "/show/tea.jpeg"},
+    {"title": "forest fruit", "icon": "/show/tea.jpeg"}
+  ],
+  "frozenDrinks": [
+    {"title": "banana", "icon": "/show/tea.jpeg"},
+    {"title": "strawberry", "icon": "/show/tea.jpeg"},
+    {"title": "raspberry", "icon": "/show/tea.jpeg"},
+    {"title": "mango", "icon": "/show/tea.jpeg"},
+    {"title": "kiwi", "icon": "/show/tea.jpeg"},
+    {"title": "orangeade", "icon": "/show/tea.jpeg"},
+    {"title": "blackberry", "icon": "/show/tea.jpeg"},
+    {"title": "peach lemonade", "icon": "/show/tea.jpeg"},
+    {"title": "caramel", "icon": "/show/tea.jpeg"},
+    {"title": "forest fruit", "icon": "/show/tea.jpeg"},
+    {"title": "peach", "icon": "/show/tea.jpeg"},
+    {"title": "mojito", "icon": "/show/tea.jpeg"},
+    {"title": "fairway", "icon": "/show/tea.jpeg"}
+  ],
+  "vitamins": [
+    {"title": "lemonade", "icon": "/show/tea.jpeg"},
+    {"title": "black mulberry", "icon": "/show/tea.jpeg"},
+    {"title": "orange", "icon": "/show/tea.jpeg"},
+    {"title": "pomegranate", "icon": "/show/tea.jpeg"},
+    {"title": "mix", "icon": "/show/tea.jpeg"}
+  ],
+  "coldDrinks": [
+    {"title": "cola", "icon": "/show/tea.jpeg"},
+    {"title": "fanta", "icon": "/show/tea.jpeg"},
+    {"title": "sprite", "icon": "/show/tea.jpeg"},
+    {"title": "fuse tea", "icon": "/show/tea.jpeg"},
+    {"title": "cappy types", "icon": "/show/tea.jpeg"},
+    {"title": "plain mineral water", "icon": "/show/tea.jpeg"},
+    {"title": "fruit-flavored soda", "icon": "/show/tea.jpeg"},
+    {"title": "water", "icon": "/show/tea.jpeg"},
+    {"title": "soda", "icon": "/show/tea.jpeg"},
+    {"title": "ayran", "icon": "/show/tea.jpeg"},
+    {"title": "redbull", "icon": "/show/tea.jpeg"},
+    {"title": "redbull atom", "icon": "/show/tea.jpeg"},
+    {"title": "churchill", "icon": "/show/tea.jpeg"}
+  ]
+}

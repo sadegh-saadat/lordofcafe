@@ -1,0 +1,51 @@
+{
+  "buttonNav": {
+    "wellcome": "Lord of Cafe'ye Hoş Geldiniz",
+    "localeSwitcher": "Dili Değiştir",
+    "food": [
+      {"key": "breakfast", "title": "Kahvaltı"},
+      {"key": "eggs", "title": "Yumurtalar"},
+      {"key": "menemen", "title": "Menemen"},
+      {"key": "omelette", "title": "Omlet"},
+      {"key": "toast", "title": "Tost"},
+      {"key": "flatbread", "title": "Düz Ekmek"},
+      {"key": "pancake", "title": "Pankek"},
+      {"key": "snacks", "title": "Atıştırmalıklar"},
+      {"key": "coldSandwiches", "title": "Soğuk Sandviçler"},
+      {"key": "burgers", "title": "Burgerler"},
+      {"key": "pizza", "title": "Pizza"},
+      {"key": "salads", "title": "Salatalar"},
+      {"key": "pasta", "title": "Makarna"},
+      {"key": "crepes", "title": "Krep"},
+      {"key": "fajitas", "title": "Fajita"},
+      {"key": "meatGrill", "title": "Et Izgara"},
+      {"key": "whiteMeats", "title": "Beyaz Etler"},
+      {"key": "panFried", "title": "Tavada Yemekler"}
+    ],
+    "drink": [
+      {"key": "tea", "title": "Çay"},
+      {"key": "coffee", "title": "Kahve"},
+      {"key": "frappe", "title": "Frappe"},
+      {"key": "milkshake", "title": "Milkshake"},
+      {"key": "smoothie", "title": "Smoothie"},
+      {"key": "frozen", "title": "Donmuş İçecekler"},
+      {"key": "vitamins", "title": "Vitamin İçecekleri"},
+      {"key": "coldDrinks", "title": "Soğuk İçecekler"}
+    ],
+    "hookah": [
+      {"key": "alFakher", "title": "al fakher"},
+      {"key": "special", "title": "Özel"},
+      {"key": "specialBlend", "title": "özel sunum karışımı"},
+      {"key": "nakhl", "title": "nakhl"},
+      {"key": "bahrein", "title": "bahrein"},
+      {"key": "naturals", "title": "doğal"},
+      {"key": "starbuzz", "title": "starbuzz"}
+    ],
+    "buttonUp": [
+      {"title": "İçecek", "icon": "/drink.svg", "href": "/drink"},
+      {"title": "Yemek", "icon": "/food.svg", "href": "/food"},
+      {"title": "Tatlı", "icon": "/dessert.svg", "href": "/dessert"},
+      {"title": "Nargile", "icon": "/hookah.svg", "href": "/hookah"}
+    ]
+  }
+}

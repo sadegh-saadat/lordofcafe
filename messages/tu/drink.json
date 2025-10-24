@@ -1,0 +1,134 @@
+{
+  "tea": [
+    {"title": "bardak çay", "icon": "/show/tea.jpeg"},
+    {"title": "fincan çay", "icon": "/show/tea.jpeg"},
+    {"title": "elma çayı", "icon": "/show/tea.jpeg"},
+    {"title": "böğürtlen çayı", "icon": "/show/tea.jpeg"},
+    {"title": "adaçayı", "icon": "/show/tea.jpeg"},
+    {"title": "papatya çayı", "icon": "/show/tea.jpeg"},
+    {"title": "ıhlamur", "icon": "/show/tea.jpeg"},
+    {"title": "ada çayı", "icon": "/show/tea.jpeg"},
+    {"title": "kış çayı", "icon": "/show/tea.jpeg"},
+    {"title": "rezene çayı", "icon": "/show/tea.jpeg"},
+    {"title": "limon çayı", "icon": "/show/tea.jpeg"},
+    {"title": "nane çayı", "icon": "/show/tea.jpeg"},
+    {"title": "yeşil çay", "icon": "/show/tea.jpeg"},
+    {"title": "yasemin çayı", "icon": "/show/tea.jpeg"},
+    {"title": "grip çayı", "icon": "/show/tea.jpeg"},
+    {"title": "papatya çayı", "icon": "/show/tea.jpeg"},
+    {"title": "oralet", "icon": "/show/tea.jpeg"}
+  ],
+  "turkishCoffee": [
+    {"title": "Türk kahvesi", "icon": "/show/tea.jpeg"},
+    {"title": "sakızlı kahve", "icon": "/show/tea.jpeg"},
+    {"title": "dibek kahvesi", "icon": "/show/tea.jpeg"},
+    {"title": "osmanlı kahvesi", "icon": "/show/tea.jpeg"},
+    {"title": "fıstıklı kahve", "icon": "/show/tea.jpeg"},
+    {"title": "neskafe", "icon": "/show/tea.jpeg"}
+  ],
+  "specialCoffee": [
+    {"title": "espresso", "icon": "/show/tea.jpeg"},
+    {"title": "double espresso", "icon": "/show/tea.jpeg"},
+    {"title": "americano", "icon": "/show/tea.jpeg"},
+    {"title": "cappuccino", "icon": "/show/tea.jpeg"},
+    {"title": "macchiato", "icon": "/show/tea.jpeg"},
+    {"title": "white mocha", "icon": "/show/tea.jpeg"},
+    {"title": "mocha", "icon": "/show/tea.jpeg"},
+    {"title": "pipirit mocha", "icon": "/show/tea.jpeg"},
+    {"title": "latte", "icon": "/show/tea.jpeg"},
+    {"title": "aromalı latte", "icon": "/show/tea.jpeg"},
+    {"title": "cappuccino latte", "icon": "/show/tea.jpeg"}
+  ],
+  "regionalCoffee": [
+    {"title": "filtre kahve", "icon": "/show/tea.jpeg"},
+    {"title": "kolombiya kahvesi", "icon": "/show/tea.jpeg"},
+    {"title": "etiyopya kahvesi", "icon": "/show/tea.jpeg"},
+    {"title": "kenya kahvesi", "icon": "/show/tea.jpeg"},
+    {"title": "guatemala kahvesi", "icon": "/show/tea.jpeg"},
+    {"title": "brezilya kahvesi", "icon": "/show/tea.jpeg"}
+  ],
+  "hotChocolate": [
+    {"title": "sıcak çikolata", "icon": "/show/tea.jpeg"},
+    {"title": "çilekli çikolata", "icon": "/show/tea.jpeg"},
+    {"title": "muzlu çikolata", "icon": "/show/tea.jpeg"},
+    {"title": "karamelli çikolata", "icon": "/show/tea.jpeg"},
+    {"title": "salep", "icon": "/show/tea.jpeg"}
+  ],
+  "coldCoffee": [
+    {"title": "buzlu americano", "icon": "/show/tea.jpeg"},
+    {"title": "buzlu latte", "icon": "/show/tea.jpeg"},
+    {"title": "buzlu cappuccino", "icon": "/show/tea.jpeg"},
+    {"title": "buzlu mocha", "icon": "/show/tea.jpeg"},
+    {"title": "buzlu white mocha", "icon": "/show/tea.jpeg"},
+    {"title": "buzlu pipirit mocha", "icon": "/show/tea.jpeg"},
+    {"title": "coco star", "icon": "/show/tea.jpeg"},
+    {"title": "buzlu çikolata", "icon": "/show/tea.jpeg"}
+  ],
+  "frappe": [
+    {"title": "klasik frappe", "icon": "/show/tea.jpeg"},
+    {"title": "çikolatalı frappe", "icon": "/show/tea.jpeg"},
+    {"title": "karamelli frappe", "icon": "/show/tea.jpeg"},
+    {"title": "vanilyalı frappe", "icon": "/show/tea.jpeg"},
+    {"title": "çilekli frappe", "icon": "/show/tea.jpeg"},
+    {"title": "muzlu frappe", "icon": "/show/tea.jpeg"},
+    {"title": "mocha frappe", "icon": "/show/tea.jpeg"},
+    {"title": "fındıklı frappe", "icon": "/show/tea.jpeg"}
+  ],
+  "milkshake": [
+    {"title": "çikolatalı milkshake", "icon": "/show/tea.jpeg"},
+    {"title": "vanilyalı milkshake", "icon": "/show/tea.jpeg"},
+    {"title": "çilekli milkshake", "icon": "/show/tea.jpeg"},
+    {"title": "muzlu milkshake", "icon": "/show/tea.jpeg"},
+    {"title": "karamelli milkshake", "icon": "/show/tea.jpeg"},
+    {"title": "karpuzlu milkshake", "icon": "/show/tea.jpeg"},
+    {"title": "atom milkshake", "icon": "/show/tea.jpeg"},
+    {"title": "kivili milkshake", "icon": "/show/tea.jpeg"}
+  ],
+  "smoothie": [
+    {"title": "mango smoothie", "icon": "/show/tea.jpeg"},
+    {"title": "çilekli smoothie", "icon": "/show/tea.jpeg"},
+    {"title": "muzlu smoothie", "icon": "/show/tea.jpeg"},
+    {"title": "frambuazlı smoothie", "icon": "/show/tea.jpeg"},
+    {"title": "böğürtlenli smoothie", "icon": "/show/tea.jpeg"},
+    {"title": "dutlu smoothie", "icon": "/show/tea.jpeg"},
+    {"title": "kivili smoothie", "icon": "/show/tea.jpeg"},
+    {"title": "orman meyveli smoothie", "icon": "/show/tea.jpeg"}
+  ],
+  "frozenDrinks": [
+    {"title": "muzlu frozen", "icon": "/show/tea.jpeg"},
+    {"title": "çilekli frozen", "icon": "/show/tea.jpeg"},
+    {"title": "frambuazlı frozen", "icon": "/show/tea.jpeg"},
+    {"title": "mangolu frozen", "icon": "/show/tea.jpeg"},
+    {"title": "kivili frozen", "icon": "/show/tea.jpeg"},
+    {"title": "portakallı frozen", "icon": "/show/tea.jpeg"},
+    {"title": "böğürtlenli frozen", "icon": "/show/tea.jpeg"},
+    {"title": "şeftalili limonata", "icon": "/show/tea.jpeg"},
+    {"title": "karamelli frozen", "icon": "/show/tea.jpeg"},
+    {"title": "orman meyveli frozen", "icon": "/show/tea.jpeg"},
+    {"title": "şeftalili frozen", "icon": "/show/tea.jpeg"},
+    {"title": "mojito", "icon": "/show/tea.jpeg"},
+    {"title": "fairway", "icon": "/show/tea.jpeg"}
+  ],
+  "vitamins": [
+    {"title": "limonata", "icon": "/show/tea.jpeg"},
+    {"title": "dutlu", "icon": "/show/tea.jpeg"},
+    {"title": "portakal", "icon": "/show/tea.jpeg"},
+    {"title": "nar", "icon": "/show/tea.jpeg"},
+    {"title": "karışık", "icon": "/show/tea.jpeg"}
+  ],
+  "coldDrinks": [
+    {"title": "kola", "icon": "/show/tea.jpeg"},
+    {"title": "fanta", "icon": "/show/tea.jpeg"},
+    {"title": "sprite", "icon": "/show/tea.jpeg"},
+    {"title": "fuse tea", "icon": "/show/tea.jpeg"},
+    {"title": "cappy çeşitleri", "icon": "/show/tea.jpeg"},
+    {"title": "sade maden suyu", "icon": "/show/tea.jpeg"},
+    {"title": "meyveli soda", "icon": "/show/tea.jpeg"},
+    {"title": "su", "icon": "/show/tea.jpeg"},
+    {"title": "soda", "icon": "/show/tea.jpeg"},
+    {"title": "ayran", "icon": "/show/tea.jpeg"},
+    {"title": "redbull", "icon": "/show/tea.jpeg"},
+    {"title": "redbull atom", "icon": "/show/tea.jpeg"},
+    {"title": "churchill", "icon": "/show/tea.jpeg"}
+  ]
+}
