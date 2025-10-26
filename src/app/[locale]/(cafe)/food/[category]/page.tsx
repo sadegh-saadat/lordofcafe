@@ -3,10 +3,8 @@ import { getCategoryGroups } from "@/hooks/useCategory";
 import { notFound } from "next/navigation";
 
 
-type Props = { params: { locale: string; category: string } };
-
-export default async function FoodCategoryPage({ params }: Props) {
-  const { locale, category } = params;
+export default async function FoodCategoryPage(props: PageProps<'/[locale]/food/[category]'>) {
+  const { locale, category } = await props.params;
 
   const groups = await getCategoryGroups({ locale, category });
 
