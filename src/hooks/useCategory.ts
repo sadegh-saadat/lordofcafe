@@ -1,4 +1,4 @@
-import { DESSERT_GROUPS, DRINK_GROUPS, DrinkCategory, FOOD_GROUPS, HOOKAH_GROUPS } from "@/lib/groups";
+import { DESSERT_GROUPS, DRINK_GROUPS, FOOD_GROUPS, HOOKAH_GROUPS } from "@/lib/groups";
 import { getTranslations, setRequestLocale } from "next-intl/server";
 
 
@@ -11,7 +11,8 @@ const ALL_GROUPS : Record<string, readonly string[]> = {
   ...DESSERT_GROUPS
 };
 
-export async function useCategory({ locale, category }: Params) {
+// Server utility: fetches category groups using next-intl on the server.
+export async function getCategoryGroups({ locale, category }: Params) {
   setRequestLocale(locale);
 
   const groupKeys = ALL_GROUPS[category];

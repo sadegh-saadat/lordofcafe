@@ -1,17 +1,17 @@
 
-import { useCategory } from "@/hooks/useCategory";
+import { getCategoryGroups } from "@/hooks/useCategory";
 import { notFound } from "next/navigation";
 import CategoryUi from "@/components/ui/layout/CategoryUi";
 
 
 type Props = {
-  params: Promise<{ locale: string; category: string }>
+  params: { locale: string; category: string }
 };
 
 export default async function DessertCategoryPage({ params }: Props) {
-  const { locale, category } = await params;
+  const { locale, category } = params;
 
-  const groups = await useCategory({ locale, category });
+  const groups = await getCategoryGroups({ locale, category });
 
   if (!groups) {
     notFound();
