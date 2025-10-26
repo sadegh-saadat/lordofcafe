@@ -1,3 +1,74 @@
 {
-  
+	"dessert": [
+		{
+			"title": "Kremalı pasta çeşitleri",
+			"price": 100,
+			"icon": ""
+		},
+		{
+			"title": "San Sebastian cheesecake",
+			"price": 100,
+			"icon": ""
+		},
+		{
+			"title": "Sütlaç",
+			"price": 100,
+			"icon": ""
+		},
+		{
+			"title": "Sufle",
+			"price": 100,
+			"icon": ""
+		},
+		{
+			"title": "Katmer",
+			"price": 100,
+			"icon": ""
+		},
+		{
+			"title": "Meyveli katmer",
+			"price": 100,
+			"icon": ""
+		},
+		{
+			"title": "Künefe",
+			"price": 100,
+			"icon": ""
+		},
+		{
+			"title": "Dondurma (4 top)",
+			"price": 100,
+			"icon": ""
+		},
+		{
+			"title": "Dondurma topu",
+			"price": 100,
+			"icon": ""
+		},
+		{
+			"title": "Lord waffle aşkı",
+			"price": 100,
+			"icon": ""
+		},
+		{
+			"title": "Kuruyemiş tabağı",
+			"price": 100,
+			"icon": ""
+		},
+		{
+			"title": "Meyveli waffle",
+			"price": 100,	
+			"icon": ""
+		},
+		{
+			"title": "Porsiyon meyve tabağı",
+			"price": 100,
+			"icon": ""
+		},
+		{
+			"title": "Özel meyve tabağı",
+			"price": 100,
+			"icon": ""
+		}
+	]
 }

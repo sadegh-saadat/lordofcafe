@@ -2,6 +2,7 @@
 
 import LocaleSwitcher from "@/components/LocaleSwitcher";
 import { Link } from "@/i18n/navigation";
+import { motion } from "motion/react";
 import { useTranslations } from "next-intl";
 import Image from "next/image";
 
@@ -20,32 +21,39 @@ export default function Home() {
 
   return (
     <section className="min-h-screen bg-gray-900 grid place-items-center">
-      <div className="w-full h-full flex items-center flex-col gap-10 justify-center ">
+      <motion.div
+        initial={{ opacity: 0, y: 200 }}
+        animate={{ opacity: 1, y: 0 }}
+        exit={{ opacity: 0, y: 100 }}
+        transition={{ duration: 0.5, ease: 'easeInOut' }}
+        className="w-full h-full flex items-center flex-col gap-10 justify-center "
+      >
         <div className="flex flex-col items-center gap-10">
           <h2 className="text-5xl font-bold">LOGO</h2>
-          <p className="text-2xl font-medium text-amber-700">{t('wellcome')}</p>
+          <p className="text-3xl font-medium text-amber-700">{t('wellcome')}</p>
         </div>
         <ul className="flex flex-col items-start gap-2">
           {buttonUp.map((item, index: number) => (
             <li 
-            className="flex items-center w-full px-4 py-2 gap-2 bg-amber-800 rounded-full"
+            className="w-full"
             key={index}>
-              <Image 
-                src={item.icon} 
-                alt='icon' 
-                width={32} 
-                height={32} 
-              />
               <Link 
+                className="bg-amber-800 rounded-full flex items-center text-left gap-2 px-4 py-2"
                 href={item.href} 
               >
+                <Image 
+                  src={item.icon} 
+                  alt='icon' 
+                  width={32} 
+                  height={32} 
+                />
                 {item.title}
               </Link>
             </li>
           ))}
         </ul>
         <LocaleSwitcher />
-      </div>
+      </motion.div>
     </section>
   );
 }

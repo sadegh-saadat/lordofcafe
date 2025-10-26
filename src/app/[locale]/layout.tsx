@@ -46,7 +46,7 @@ export default async function LocaleLayout({
     <html lang={locale}>
       <body
         className={cn(
-          'antialiased',
+          ' antialiased',
           lexend.className)}
       >
         <NextIntlClientProvider messages={messages}>

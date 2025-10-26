@@ -1,12 +1,10 @@
-"use client"
 
+import { redirect } from "next/navigation";
+import { DESSERT_GROUPS } from "@/lib/groups";
 
-import React from 'react'
-
-export default function DessertPage() {
-  return (
-    <div>
-      Dessert Page
-    </div>
-  )
+type Props = { params: Promise<{ locale: string }> };
+export default async function DessertPage({ params }: Props) {
+  const { locale } = await params;
+  const first = Object.keys(DESSERT_GROUPS)[0];
+  redirect(`/${locale}/dessert/${first}`);
 }

@@ -3,49 +3,164 @@
     "wellcome": "خوش آمدید به لرد کافه",
     "localeSwitcher": "تغییر زبان",
     "food": [
-      {"key": "breakfast", "title": "صبحانه"},
-      {"key": "eggs", "title": "تخم‌مرغ"},
-      {"key": "menemen", "title": "منمن"},
-      {"key": "omelette", "title": "املت"},
-      {"key": "toast", "title": "تُست"},
-      {"key": "flatbread", "title": "نان تخت"},
-      {"key": "pancake", "title": "پنکیک"},
-      {"key": "snacks", "title": "میان‌وعده‌ها"},
-      {"key": "coldSandwiches", "title": "ساندویچ سرد"},
-      {"key": "burgers", "title": "برگرها"},
-      {"key": "pizza", "title": "پیتزا"},
-      {"key": "salads", "title": "سالادها"},
-      {"key": "pasta", "title": "پاستا"},
-      {"key": "crepes", "title": "کِرِپ"},
-      {"key": "fajitas", "title": "فاهیتا"},
-      {"key": "meatGrill", "title": "کباب گوشت"},
-      {"key": "whiteMeats", "title": "گوشت سفید"},
-      {"key": "panFried", "title": "غذاهای سرخ‌کردنی"}
+      {
+        "key": "breakfast",
+        "title": "صبحانه"
+      },
+      {
+        "key": "eggs",
+        "title": "تخم‌مرغ"
+      },
+      {
+        "key": "menemen",
+        "title": "منمن"
+      },
+      {
+        "key": "omelette",
+        "title": "املت"
+      },
+      {
+        "key": "toast",
+        "title": "تُست"
+      },
+      {
+        "key": "flatbread",
+        "title": "نان تخت"
+      },
+      {
+        "key": "pancake",
+        "title": "پنکیک"
+      },
+      {
+        "key": "snacks",
+        "title": "میان‌وعده‌ها"
+      },
+      {
+        "key": "coldSandwiches",
+        "title": "ساندویچ سرد"
+      },
+      {
+        "key": "burgers",
+        "title": "برگرها"
+      },
+      {
+        "key": "pizza",
+        "title": "پیتزا"
+      },
+      {
+        "key": "salads",
+        "title": "سالادها"
+      },
+      {
+        "key": "pasta",
+        "title": "پاستا"
+      },
+      {
+        "key": "crepes",
+        "title": "کِرِپ"
+      },
+      {
+        "key": "fajitas",
+        "title": "فاهیتا"
+      },
+      {
+        "key": "meatGrill",
+        "title": "کباب گوشت"
+      },
+      {
+        "key": "whiteMeats",
+        "title": "گوشت سفید"
+      },
+      {
+        "key": "panFried",
+        "title": "غذاهای سرخ‌کردنی"
+      }
     ],
     "drink": [
-      {"key": "tea", "title": "چای"},
-      {"key": "coffee", "title": "قهوه"},
-      {"key": "frappe", "title": "فراپه"},
-      {"key": "milkshake", "title": "میلک‌شیک"},
-      {"key": "smoothie", "title": "اسموتی"},
-      {"key": "frozen", "title": "یخ‌زده"},
-      {"key": "vitamins", "title": "ویتامینی"},
-      {"key": "coldDrinks", "title": "نوشیدنی سرد"}
+      {
+        "key": "tea",
+        "title": "چای"
+      },
+      {
+        "key": "coffee",
+        "title": "قهوه"
+      },
+      {
+        "key": "frappe",
+        "title": "فراپه"
+      },
+      {
+        "key": "milkshake",
+        "title": "میلک‌شیک"
+      },
+      {
+        "key": "smoothie",
+        "title": "اسموتی"
+      },
+      {
+        "key": "frozen",
+        "title": "یخ‌زده"
+      },
+      {
+        "key": "vitamins",
+        "title": "ویتامینی"
+      },
+      {
+        "key": "coldDrinks",
+        "title": "نوشیدنی سرد"
+      }
     ],
     "hookah": [
-      {"key": "alFakher", "title": "الفخر"},
-      {"key": "special", "title": "مخصوص"},
-      {"key": "specialBlend", "title": "بلند ویژه"},
-      {"key": "nakhl", "title": "نخل"},
-      {"key": "bahrein", "title": "بحرین"},
-      {"key": "naturals", "title": "طبیعی‌ها"},
-      {"key": "starbuzz", "title": "استارباز"}
+      {
+        "key": "alFakher",
+        "title": "الفخر"
+      },
+      {
+        "key": "special",
+        "title": "مخصوص"
+      },
+      {
+        "key": "specialBlend",
+        "title": "بلند ویژه"
+      },
+      {
+        "key": "nakhl",
+        "title": "نخل"
+      },
+      {
+        "key": "bahrein",
+        "title": "بحرین"
+      },
+      {
+        "key": "naturals",
+        "title": "طبیعی‌ها"
+      },
+      {
+        "key": "starbuzz",
+        "title": "استارباز"
+      }
     ],
     "buttonUp": [
-      {"title": "نوشیدنی", "icon": "/drink.svg", "href": "/drink"},
-      {"title": "غذا", "icon": "/food.svg", "href": "/food"},
-      {"title": "دسر", "icon": "/dessert.svg", "href": "/dessert"},
-      {"title": "قلیان", "icon": "/hookah.svg", "href": "/hookah"}
+      {
+        "title": "نوشیدنی",
+        "icon": "/drink.svg",
+        "href": "/drink"
+      },
+      {
+        "title": "غذا",
+        "icon": "/food.svg",
+        "href": "/food"
+      },
+      {
+        "title": "دسر",
+        "icon": "/dessert.svg",
+        "href": "/dessert"
+      },
+      {
+        "title": "قلیان",
+        "icon": "/hookah.svg",
+        "href": "/hookah"
+      }
     ]
   }
 }

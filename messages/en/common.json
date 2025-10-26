@@ -3,49 +3,206 @@
     "wellcome": "Welcome to Lord of Cafe",
     "localeSwitcher": "Change Language",
     "food": [
-      {"key": "breakfast", "title": "Breakfast"},
-      {"key": "eggs", "title": "Eggs"},
-      {"key": "menemen", "title": "Menemen"},
-      {"key": "omelette", "title": "Omelette"},
-      {"key": "toast", "title": "Toast"},
-      {"key": "flatbread", "title": "Flatbread"},
-      {"key": "pancake", "title": "Pancake"},
-      {"key": "snacks", "title": "Snacks"},
-      {"key": "coldSandwiches", "title": "Cold Sandwiches"},
-      {"key": "burgers", "title": "Burgers"},
-      {"key": "pizza", "title": "Pizza"},
-      {"key": "salads", "title": "Salads"},
-      {"key": "pasta", "title": "Pasta"},
-      {"key": "crepes", "title": "Crepes"},
-      {"key": "fajitas", "title": "Fajitas"},
-      {"key": "meatGrill", "title": "Meat Grill"},
-      {"key": "whiteMeats", "title": "White Meats"},
-      {"key": "panFried", "title": "Pan-fried Dishes"}
+      {
+        "key": "breakfast",
+        "title": "Breakfast"
+      },
+      {
+        "key": "toast",
+        "title": "Toast"
+      },
+      {
+        "key": "pancake",
+        "title": "Pancake"
+      },
+      {
+        "key": "snacks",
+        "title": "Snacks"
+      },
+      {
+        "key": "coldSandwiches",
+        "title": "Cold Sandwiches"
+      },
+      {
+        "key": "burgers",
+        "title": "Burgers"
+      },
+      {
+        "key": "pizza",
+        "title": "Pizza"
+      },
+      {
+        "key": "salads",
+        "title": "Salads"
+      },
+      {
+        "key": "pasta",
+        "title": "Pasta"
+      },
+      {
+        "key": "crepes",
+        "title": "Crepes"
+      },
+      {
+        "key": "fajitas",
+        "title": "Fajitas"
+      },
+      {
+        "key": "meatGrill",
+        "title": "Meat Grill"
+      },
+      {
+        "key": "whiteMeats",
+        "title": "White Meats"
+      },
+      {
+        "key": "panFried",
+        "title": "Pan-fried Dishes"
+      }
+    ],
+    "dessert": [
+      {
+        "key": "creamCakeVarieties",
+        "title": "Cream Cake Varieties"
+      },
+      {
+        "key": "sanSebastianCheesecake",
+        "title": "San Sebastian Cheesecake"
+      },
+      {
+        "key": "ricePudding",
+        "title": "Rice Pudding"
+      },
+      {
+        "key": "souffle",
+        "title": "Souffle"
+      },
+      {
+        "key": "katmer",
+        "title": "Katmer"
+      },
+      {
+        "key": "fruitsKatmer",
+        "title": "Fruits Katmer"
+      },
+      {
+        "key": "künefe",
+        "title": "Künefe"
+      },
+      {
+        "key": "iceCream4Ball",
+        "title": "(4 Ball) Ice Cream"
+      },
+      {
+        "key": "iceCreamBall",
+        "title": "Ice Cream Ball"
+      },
+      {
+        "key": "lordOfWaffleLove",
+        "title": "Lord of Waffle Love"
+      },
+      {
+        "key": "snackNutsPlate",
+        "title": "Snack Nuts Plate"
+      },
+      {
+        "key": "fruitsPlateWaffle",
+        "title": "Fruits Plate Waffle"
+      },
+      {
+        "key": "portionFruitPlate",
+        "title": "Portion Fruit Plate"
+      },
+      {
+        "key": "specialFruitPlatter",
+        "title": "Special Fruit Platter"
+      }
     ],
     "drink": [
-      {"key": "tea", "title": "Tea"},
-      {"key": "coffee", "title": "Coffee"},
-      {"key": "frappe", "title": "Frappe"},
-      {"key": "milkshake", "title": "Milkshakes"},
-      {"key": "smoothie", "title": "Smoothies"},
-      {"key": "frozen", "title": "Frozen Drinks"},
-      {"key": "vitamins", "title": "Vitamins"},
-      {"key": "coldDrinks", "title": "Cold Drinks"}
+      {
+        "key": "tea",
+        "title": "Tea"
+      },
+      {
+        "key": "coffee",
+        "title": "Coffee"
+      },
+      {
+        "key": "frappe",
+        "title": "Frappe"
+      },
+      {
+        "key": "milkshake",
+        "title": "Milkshakes"
+      },
+      {
+        "key": "smoothie",
+        "title": "Smoothies"
+      },
+      {
+        "key": "frozen",
+        "title": "Frozen Drinks"
+      },
+      {
+        "key": "vitamins",
+        "title": "Vitamins"
+      },
+      {
+        "key": "coldDrinks",
+        "title": "Cold Drinks"
+      }
     ],
     "hookah": [
-      {"key": "alFakher", "title": "al fakher"},
-      {"key": "special", "title": "Special"},
-      {"key": "specialBlend", "title": "special presentation blend"},
-      {"key": "nakhl", "title": "nakhl"},
-      {"key": "bahrein", "title": "bahrein"},
-      {"key": "naturals", "title": "naturals"},
-      {"key": "starbuzz", "title": "starbuzz"}
+      {
+        "key": "alFakher",
+        "title": "al fakher"
+      },
+      {
+        "key": "special",
+        "title": "Special"
+      },
+      {
+        "key": "specialBlend",
+        "title": "special presentation blend"
+      },
+      {
+        "key": "nakhl",
+        "title": "nakhl"
+      },
+      {
+        "key": "bahrein",
+        "title": "bahrein"
+      },
+      {
+        "key": "naturals",
+        "title": "naturals"
+      },
+      {
+        "key": "starbuzz",
+        "title": "starbuzz"
+      }
     ],
     "buttonUp": [
-      {"title": "Drink", "icon": "/drink.svg", "href": "/drink"},
-      {"title": "Food", "icon": "/food.svg", "href": "/food"},
-      {"title": "Dessert", "icon": "/dessert.svg", "href": "/dessert"},
-      {"title": "Hookah", "icon": "/hookah.svg", "href": "/hookah"}
+      {
+        "title": "Drink",
+        "icon": "/drink.svg",
+        "href": "/drink"
+      },
+      {
+        "title": "Food",
+        "icon": "/food.svg",
+        "href": "/food"
+      },
+      {
+        "title": "Dessert",
+        "icon": "/dessert.svg",
+        "href": "/dessert"
+      },
+      {
+        "title": "Hookah",
+        "icon": "/hookah.svg",
+        "href": "/hookah"
+      }
     ]
   }
 }

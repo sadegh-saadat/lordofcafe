@@ -25,15 +25,30 @@ export const routing = defineRouting({
       fa: '/food',
       tu: '/food',
     },
+    '/food/[category]': {
+      en: '/food/[category]',
+      fa: '/food/[category]',
+      tu: '/food/[category]',
+    },
     '/hookah': {
       en: '/hookah',
       fa: '/hookah',
       tu: '/hookah',
     },
+    '/hookah/[category]': {
+      en: '/hookah/[category]',
+      fa: '/hookah/[category]',
+      tu: '/hookah/[category]',
+    },
     '/dessert': {
       en: '/dessert',
       fa: '/dessert',
       tu: '/dessert',
+    },
+    '/dessert/[category]': {
+      en: '/dessert/[category]',
+      fa: '/dessert/[category]',
+      tu: '/dessert/[category]',
     },
   }
 })
