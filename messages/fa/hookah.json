@@ -1,3 +1,276 @@
 {
-  
+  "alfakher": [
+    {
+      "title": "آنیسون",
+      "icon": "/show/tea.jpeg",
+      "price": 480
+    },
+    {
+      "title": "انگور",
+      "icon": "/show/tea.jpeg",
+      "price": 480
+    },
+    {
+      "title": "آدامس",
+      "icon": "/show/tea.jpeg",
+      "price": 480
+    },
+    {
+      "title": "وانیل",
+      "icon": "/show/tea.jpeg",
+      "price": 480
+    },
+    {
+      "title": "هندوانه",
+      "icon": "/show/tea.jpeg",
+      "price": 480
+    },
+    {
+      "title": "کاپوچینو",
+      "icon": "/show/tea.jpeg",
+      "price": 480
+    },
+    {
+      "title": "هلو",
+      "icon": "/show/tea.jpeg",
+      "price": 480
+    },
+    {
+      "title": "بلوبری",
+      "icon": "/show/tea.jpeg",
+      "price": 480
+    },
+    {
+      "title": "مستیک",
+      "icon": "/show/tea.jpeg",
+      "price": 480
+    }
+  ],
+  "special": [
+    {
+      "title": "مارشمالو",
+      "icon": "/show/tea.jpeg",
+      "price": 500
+    },
+    {
+      "title": "کیت قرمز",
+      "icon": "/show/tea.jpeg",
+      "price": 500
+    },
+    {
+      "title": "مالاگا",
+      "icon": "/show/tea.jpeg",
+      "price": 500
+    },
+    {
+      "title": "میوه تازه",
+      "icon": "/show/tea.jpeg",
+      "price": 500
+    },
+    {
+      "title": "تافیتا",
+      "icon": "/show/tea.jpeg",
+      "price": 500
+    },
+    {
+      "title": "سیمیکس",
+      "icon": "/show/tea.jpeg",
+      "price": 500
+    },
+    {
+      "title": "ملون شاد",
+      "icon": "/show/tea.jpeg",
+      "price": 500
+    },
+    {
+      "title": "چیزکیک",
+      "icon": "/show/tea.jpeg",
+      "price": 500
+    },
+    {
+      "title": "راگنار",
+      "icon": "/show/tea.jpeg",
+      "price": 500
+    },
+    {
+      "title": "کرالیکس",
+      "icon": "/show/tea.jpeg",
+      "price": 500
+    },
+    {
+      "title": "پاپ‌تیپ",
+      "icon": "/show/tea.jpeg",
+      "price": 500
+    },
+    {
+      "title": "قانون اضافی",
+      "icon": "/show/tea.jpeg",
+      "price": 300
+    },
+    {
+      "title": "لرد کافه",
+      "icon": "/show/tea.jpeg",
+      "price": 300
+    }
+  ],
+  "specialblends": [
+    {
+      "title": "آیس پرا",
+      "icon": "/show/tea.jpeg",
+      "price": 500
+    },
+    {
+      "title": "توت‌فرنگی سیب لید",
+      "icon": "/show/tea.jpeg",
+      "price": 500
+    },
+    {
+      "title": "وانیل کارامل پرتقال",
+      "icon": "/show/tea.jpeg",
+      "price": 500
+    },
+    {
+      "title": "هندوانه توت‌سیاه بلوبری",
+      "icon": "/show/tea.jpeg",
+      "price": 500
+    },
+    {
+      "title": "پخته پلن‌بیر دژاوو",
+      "icon": "/show/tea.jpeg",
+      "price": 500
+    },
+    {
+      "title": "عشق بانو۶۶ دژاوو",
+      "icon": "/show/tea.jpeg",
+      "price": 500
+    }
+  ],
+  "nakhl": [
+    {
+      "title": "سیب قرمز",
+      "icon": "/show/tea.jpeg",
+      "price": 480
+    },
+    {
+      "title": "هلو",
+      "icon": "/show/tea.jpeg",
+      "price": 480
+    },
+    {
+      "title": "کاپوچینو",
+      "icon": "/show/tea.jpeg",
+      "price": 480
+    }
+  ],
+  "bahrain": [
+    {
+      "title": "سیب",
+      "icon": "/show/tea.jpeg",
+      "price": 480
+    },
+    {
+      "title": "پرتقال",
+      "icon": "/show/tea.jpeg",
+      "price": 480
+    },
+    {
+      "title": "لیمو",
+      "icon": "/show/tea.jpeg",
+      "price": 480
+    },
+    {
+      "title": "نعناع",
+      "icon": "/show/tea.jpeg",
+      "price": 480
+    },
+    {
+      "title": "کولا",
+      "icon": "/show/tea.jpeg",
+      "price": 480
+    },
+    {
+      "title": "ملون",
+      "icon": "/show/tea.jpeg",
+      "price": 480
+    },
+    {
+      "title": "توت‌فرنگی",
+      "icon": "/show/tea.jpeg",
+      "price": 480
+    },
+    {
+      "title": "گل سرخ",
+      "icon": "/show/tea.jpeg",
+      "price": 480
+    },
+    {
+      "title": "هلو",
+      "icon": "/show/tea.jpeg",
+      "price": 480
+    },
+    {
+      "title": "عسل",
+      "icon": "/show/tea.jpeg",
+      "price": 480
+    },
+    {
+      "title": "کارامل",
+      "icon": "/show/tea.jpeg",
+      "price": 480
+    },
+    {
+      "title": "قانون اضافی",
+      "icon": "/show/tea.jpeg",
+      "price": 300
+    }
+  ],
+  "naturals": [
+    {
+      "title": "پرتقال",
+      "icon": "/show/tea.jpeg",
+      "price": 1000
+    },
+    {
+      "title": "سیب",
+      "icon": "/show/tea.jpeg",
+      "price": 1000
+    },
+    {
+      "title": "ملون",
+      "icon": "/show/tea.jpeg",
+      "price": 1000
+    },
+    {
+      "title": "هندوانه",
+      "icon": "/show/tea.jpeg",
+      "price": 1000
+    },
+    {
+      "title": "آناناس",
+      "icon": "/show/tea.jpeg",
+      "price": 1000
+    }
+  ],
+  "starbuzz": [
+    {
+      "title": "مه آبی",
+      "icon": "/show/tea.jpeg",
+      "price": 600
+    },
+    {
+      "title": "ملون آبی",
+      "icon": "/show/tea.jpeg",
+      "price": 600
+    },
+    {
+      "title": "اگزوتیک",
+      "icon": "/show/tea.jpeg",
+      "price": 600
+    },
+    {
+      "title": "قانون اضافی",
+      "icon": "/show/tea.jpeg",
+      "price": 600
+    }
+  ]
 }

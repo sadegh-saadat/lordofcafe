@@ -2,564 +2,519 @@
   "tea": [
     {
       "title": "چای لیوانی",
-      "price": 100,
+      "price": 55,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "چای فنجانی",
-      "price": 100,
+      "price": 85,
       "icon": "/show/tea.jpeg"
     },
     {
-      "title": "چای سیب",
-      "price": 100,
-      "icon": "/show/tea.jpeg"
-    },
-    {
-      "title": "چای توت سیاه",
-      "price": 100,
-      "icon": "/show/tea.jpeg"
-    },
-    {
-      "title": "چای مریم‌گلی",
-      "price": 100,
-      "icon": "/show/tea.jpeg"
-    },
-    {
-      "title": "چای بابونه",
-      "price": 100,
-      "icon": "/show/tea.jpeg"
-    },
-    {
-      "title": "دمنوش گل گاوزبان",
-      "price": 100,
+      "title": "ایهلامور",
+      "price": 180,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "چای جزیره",
-      "price": 100,
+      "price": 180,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "چای زمستانی",
-      "price": 100,
+      "price": 180,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "چای رازیانه",
-      "price": 100,
+      "price": 180,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "چای لیمو",
-      "price": 100,
+      "price": 180,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "چای نعناع",
-      "price": 100,
+      "price": 180,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "چای سبز",
-      "price": 100,
+      "price": 180,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "چای یاس",
-      "price": 100,
+      "price": 180,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "چای سرماخوردگی",
-      "price": 100,
+      "price": 180,
       "icon": "/show/tea.jpeg"
     },
     {
-      "title": "چای بابونه",
-      "price": 100,
+      "title": "چای مریم گلی",
+      "price": 180,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "اورالت",
-      "price": 100,
+      "price": 85,
       "icon": "/show/tea.jpeg"
     }
   ],
   "turkishCoffee": [
     {
       "title": "قهوه ترک",
-      "price": 100,
+      "price": 140,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "قهوه مستیک",
-      "price": 100,
+      "price": 150,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "قهوه هاون",
-      "price": 100,
+      "price": 150,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "قهوه عثمانی",
-      "price": 100,
+      "price": 150,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "قهوه پسته‌ای",
-      "price": 100,
+      "price": 150,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "نسکافه",
-      "price": 100,
+      "price": 150,
       "icon": "/show/tea.jpeg"
     }
   ],
   "specialCoffee": [
     {
       "title": "اسپرسو",
-      "price": 100,
+      "price": 140,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "اسپرسو دوبل",
-      "price": 100,
+      "price": 160,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "آمریکانو",
-      "price": 100,
+      "price": 165,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "کاپوچینو",
-      "price": 100,
+      "price": 165,
+      "icon": "/show/tea.jpeg"
+    },
+    {
+      "title": "کاپوچینو طعم‌دار",
+      "price": 170,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "ماکیاتو",
-      "price": 100,
+      "price": 165,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "وایت موکا",
-      "price": 100,
+      "price": 170,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "موکا",
-      "price": 100,
+      "price": 170,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "موکا پیپریت",
-      "price": 100,
+      "price": 170,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "لاته",
-      "price": 100,
+      "price": 170,
       "icon": "/show/tea.jpeg"
     },
     {
-      "title": "لاته آروما",
-      "price": 100,
+      "title": "لاته طعم‌دار",
+      "price": 170,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "کاپوچینو لاته",
-      "price": 100,
+      "price": 170,
       "icon": "/show/tea.jpeg"
     }
   ],
   "regionalCoffee": [
     {
       "title": "قهوه فیلتر",
-      "price": 100,
+      "price": 180,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "قهوه کلمبیایی",
-      "price": 100,
-      "icon": "/show/tea.jpeg"
-    },
-    {
-      "title": "قهوه اتیوپیایی",
-      "price": 100,
-      "icon": "/show/tea.jpeg"
-    },
-    {
-      "title": "قهوه کنیایی",
-      "price": 100,
-      "icon": "/show/tea.jpeg"
-    },
-    {
-      "title": "قهوه گواتمالایی",
-      "price": 100,
-      "icon": "/show/tea.jpeg"
-    },
-    {
-      "title": "قهوه برزیلی",
-      "price": 100,
+      "price": 180,
       "icon": "/show/tea.jpeg"
     }
   ],
   "hotChocolate": [
     {
       "title": "شکلات داغ",
-      "price": 100,
+      "price": 180,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "شکلات توت‌فرنگی",
-      "price": 100,
+      "price": 180,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "شکلات موزی",
-      "price": 100,
+      "price": 180,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "شکلات کارامل",
-      "price": 100,
+      "price": 180,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "ساحلب",
-      "price": 100,
+      "price": 180,
       "icon": "/show/tea.jpeg"
     }
   ],
   "coldCoffee": [
     {
       "title": "آیس آمریکانو",
-      "price": 100,
+      "price": 200,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "آیس لاته",
-      "price": 100,
+      "price": 200,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "آیس کاپوچینو",
-      "price": 100,
+      "price": 200,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "آیس موکا",
-      "price": 100,
+      "price": 200,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "آیس وایت موکا",
-      "price": 100,
+      "price": 200,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "آیس موکا پیپریت",
-      "price": 100,
+      "price": 200,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "کوکو استار",
-      "price": 100,
+      "price": 200,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "شکلات یخی",
-      "price": 100,
+      "price": 200,
       "icon": "/show/tea.jpeg"
     }
   ],
   "frappe": [
     {
       "title": "فراپه کلاسیک",
-      "price": 100,
+      "price": 200,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "فراپه شکلاتی",
-      "price": 100,
+      "price": 200,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "فراپه کارامل",
-      "price": 100,
+      "price": 200,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "فراپه وانیلی",
-      "price": 100,
+      "price": 200,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "فراپه توت‌فرنگی",
-      "price": 100,
+      "price": 200,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "فراپه موز",
-      "price": 100,
-      "icon": "/show/tea.jpeg"
-    },
-    {
-      "title": "فراپه موکا",
-      "price": 100,
-      "icon": "/show/tea.jpeg"
-    },
-    {
-      "title": "فراپه فندق",
-      "price": 100,
+      "price": 200,
       "icon": "/show/tea.jpeg"
     }
   ],
   "milkshake": [
     {
       "title": "میلک‌شیک شکلات",
-      "price": 100,
+      "price": 240,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "میلک‌شیک وانیل",
-      "price": 100,
+      "price": 240,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "میلک‌شیک توت‌فرنگی",
-      "price": 100,
+      "price": 240,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "میلک‌شیک موز",
-      "price": 100,
+      "price": 240,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "میلک‌شیک کارامل",
-      "price": 100,
+      "price": 240,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "میلک‌شیک هندوانه",
-      "price": 100,
+      "price": 240,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "میلک‌شیک اتم",
-      "price": 100,
+      "price": 240,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "میلک‌شیک کیوی",
-      "price": 100,
+      "price": 240,
       "icon": "/show/tea.jpeg"
     }
   ],
   "smoothie": [
     {
       "title": "اسموتی انبه",
-      "price": 100,
+      "price": 240,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "اسموتی توت‌فرنگی",
-      "price": 100,
+      "price": 240,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "اسموتی موز",
-      "price": 100,
+      "price": 240,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "اسموتی تمشک",
-      "price": 100,
+      "price": 240,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "اسموتی توت سیاه",
-      "price": 100,
+      "price": 240,
       "icon": "/show/tea.jpeg"
     },
     {
-      "title": "اسموتی شاه‌توت",
-      "price": 100,
+      "title": "شاه‌توت",
+      "price": 240,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "اسموتی کیوی",
-      "price": 100,
+      "price": 240,
       "icon": "/show/tea.jpeg"
     },
     {
-      "title": "اسموتی میوه‌های جنگلی",
-      "price": 100,
+      "title": "میوه‌های جنگلی",
+      "price": 240,
       "icon": "/show/tea.jpeg"
     }
   ],
   "frozenDrinks": [
     {
-      "title": "موز یخی",
-      "price": 100,
+      "title": "موز",
+      "price": 200,
       "icon": "/show/tea.jpeg"
     },
     {
-      "title": "توت‌فرنگی یخی",
-      "price": 100,
+      "title": "توت‌فرنگی",
+      "price": 200,
       "icon": "/show/tea.jpeg"
     },
     {
-      "title": "تمشک یخی",
-      "price": 100,
+      "title": "تمشک",
+      "price": 200,
       "icon": "/show/tea.jpeg"
     },
     {
-      "title": "انبه یخی",
-      "price": 100,
+      "title": "انبه",
+      "price": 200,
       "icon": "/show/tea.jpeg"
     },
     {
-      "title": "کیوی یخی",
-      "price": 100,
+      "title": "کیوی",
+      "price": 200,
       "icon": "/show/tea.jpeg"
     },
     {
-      "title": "پرتقالی یخی",
-      "price": 100,
+      "title": "پرتقالی",
+      "price": 200,
       "icon": "/show/tea.jpeg"
     },
     {
-      "title": "توت سیاه یخی",
-      "price": 100,
+      "title": "توت سیاه",
+      "price": 200,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "لیموناد هلو",
-      "price": 100,
+      "price": 200,
       "icon": "/show/tea.jpeg"
     },
     {
-      "title": "کارامل یخی",
-      "price": 100,
+      "title": "کارامل",
+      "price": 200,
       "icon": "/show/tea.jpeg"
     },
     {
-      "title": "میوه جنگلی یخی",
-      "price": 100,
+      "title": "میوه جنگلی",
+      "price": 200,
       "icon": "/show/tea.jpeg"
     },
     {
-      "title": "هلو یخی",
-      "price": 100,
+      "title": "هلو",
+      "price": 200,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "موهیتو",
-      "price": 100,
+      "price": 200,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "فیروی",
-      "price": 100,
+      "price": 200,
       "icon": "/show/tea.jpeg"
     }
   ],
   "vitamins": [
     {
       "title": "لیموناد",
-      "price": 100,
+      "price": 180,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "شاه‌توت",
-      "price": 100,
+      "price": 200,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "پرتقال",
-      "price": 100,
+      "price": 200,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "انار",
-      "price": 100,
+      "price": 200,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "میکس",
-      "price": 100,
+      "price": 200,
       "icon": "/show/tea.jpeg"
     }
   ],
   "coldDrinks": [
     {
       "title": "کولا",
-      "price": 100,
+      "price": 95,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "فانتا",
-      "price": 100,
+      "price": 95,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "اسپرایت",
-      "price": 100,
+      "price": 95,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "فیوز تی",
-      "price": 100,
+      "price": 95,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "انواع کپی",
-      "price": 100,
+      "price": 95,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "آب معدنی ساده",
-      "price": 100,
+      "price": 80,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "نوشابه میوه‌ای",
-      "price": 100,
+      "price": 85,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "آب",
-      "price": 100,
+      "price": 50,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "سودا",
-      "price": 100,
+      "price": 80,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "دوغ",
-      "price": 100,
+      "price": 90,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "ردبول",
-      "price": 100,
+      "price": 140,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "ردبول اتم",
-      "price": 100,
+      "price": 300,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "چرچیل",
-      "price": 100,
+      "price": 95,
       "icon": "/show/tea.jpeg"
     }
   ]

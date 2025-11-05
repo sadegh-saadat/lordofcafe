@@ -124,9 +124,67 @@
         "title": "نوشیدنی سرد"
       }
     ],
+    "dessert": [
+      {
+        "key": "creamCakeVarieties",
+        "title": "انواع کیک خامه‌ای"
+      },
+      {
+        "key": "sanSebastianCheesecake",
+        "title": "چیزکیک سن سباستیان"
+      },
+      {
+        "key": "ricePudding",
+        "title": "شیر برنج"
+      },
+      {
+        "key": "souffle",
+        "title": "سوفله"
+      },
+      {
+        "key": "katmer",
+        "title": "کاتمر"
+      },
+      {
+        "key": "fruitsKatmer",
+        "title": "کاتمر میوه‌ای"
+      },
+      {
+        "key": "künefe",
+        "title": "کونفه"
+      },
+      {
+        "key": "iceCream4Ball",
+        "title": "بستنی (۴ گوی)"
+      },
+      {
+        "key": "iceCreamBall",
+        "title": "گوی بستنی"
+      },
+      {
+        "key": "lordOfWaffleLove",
+        "title": "ارباب عشق وافل"
+      },
+      {
+        "key": "snackNutsPlate",
+        "title": "بشقاب آجیل"
+      },
+      {
+        "key": "fruitsPlateWaffle",
+        "title": "بشقاب میوه وافل"
+      },
+      {
+        "key": "portionFruitPlate",
+        "title": "بشقاب میوه پورشن"
+      },
+      {
+        "key": "specialFruitPlatter",
+        "title": "بشقاب میوه ویژه"
+      }
+    ],
     "hookah": [
       {
-        "key": "alFakher",
+        "key": "alfakher",
         "title": "الفخر"
       },
       {
@@ -134,7 +192,7 @@
         "title": "مخصوص"
       },
       {
-        "key": "specialBlend",
+        "key": "specialblends",
         "title": "بلند ویژه"
       },
       {
@@ -142,7 +200,7 @@
         "title": "نخل"
       },
       {
-        "key": "bahrein",
+        "key": "bahrain",
         "title": "بحرین"
       },
       {
@@ -179,38 +237,42 @@
   },
   "groupTitles": {
     "breakfast": "صبحانه",
-    "eggs": "تخم‌ مرغ",
+    "eggs": "تخم‌مرغ",
     "menemen": "منمن",
     "omelette": "املت",
-    "toast": "تُست",
+    "toast": "تست",
     "flatbread": "نان تخت",
-    "TurkishPancakes": "پنکیک ترکی",
-    "snacks": "میان‌وعده‌ها",
-    "coldSandwiches": "ساندویچ سرد",
-    "burgers": "برگرها",
+    "TurkishPancakes": "گوزلمه",
+    "snacks": "تنقلات",
+    "coldSandwiches": "ساندویچ‌های سرد",
+    "burgers": "برگر",
     "pizza": "پیتزا",
-    "salads": "سالادها",
+    "salads": "سالاد",
     "pasta": "پاستا",
     "crepes": "کرپ",
-    "fajitas": "فاهیتا",
+    "fajitas": "فاخیتا",
     "meatGrill": "کباب گوشت",
-    "whiteMeats": "گوشت سفید",
-    "panFried": "غذاهای سرخ‌کردنی",
+    "whiteMeats": "گوشت‌های سفید",
+    "panFried": "تابه‌ای",
     "dessert": "دسر",
     "tea": "چای",
-    "turkishCoffee": "قهوه ترک",
-    "specialCoffee": "قهوه ویژه",
+    "turkishCoffee": "قهوه ترکی",
+    "specialCoffee": "قهوه مخصوص",
     "regionalCoffee": "قهوه منطقه‌ای",
-    "hotChocolate": "هات چاکلت",
+    "hotChocolate": "شکلات گرم",
     "coldCoffee": "قهوه سرد",
     "frappe": "فراپه",
     "milkshake": "میلک‌شیک",
     "smoothie": "اسموتی",
-    "frozenDrinks": "نوشیدنی یخ‌زده",
-    "vitamins": "ویتامینی",
-    "coldDrinks": "نوشیدنی سرد",
-    "classicHookah": "قلیان کلاسیک",
-    "specialHookah": "قلیان ویژه",
-    "hookahFlavors": "طعم‌های قلیان"
+    "frozenDrinks": "نوشیدنی‌های یخی",
+    "vitamins": "ویتامین‌ها",
+    "coldDrinks": "نوشیدنی‌های سرد",
+    "alfakher": "الفاخر",
+    "special": "مخصوص",
+    "specialblends": "ترکیب مخصوص",
+    "nakhl": "نخل",
+    "bahrain": "بحرین",
+    "naturals": "طبیعی",
+    "starbuzz": "استاربز"
   }
 }

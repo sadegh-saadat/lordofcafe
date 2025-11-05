@@ -1,3 +1,276 @@
 {
-  
+  "alfakher": [
+    {
+      "title": "Anason",
+      "icon": "/show/tea.jpeg",
+      "price": 480
+    },
+    {
+      "title": "grape",
+      "icon": "/show/tea.jpeg",
+      "price": 480
+    },
+    {
+      "title": "gum",
+      "icon": "/show/tea.jpeg",
+      "price": 480
+    },
+    {
+      "title": "vanilla",
+      "icon": "/show/tea.jpeg",
+      "price": 480
+    },
+    {
+      "title": "watermelon",
+      "icon": "/show/tea.jpeg",
+      "price": 480
+    },
+    {
+      "title": "cappuccino",
+      "icon": "/show/tea.jpeg",
+      "price": 480
+    },
+    {
+      "title": "peach",
+      "icon": "/show/tea.jpeg",
+      "price": 480
+    },
+    {
+      "title": "blueberries",
+      "icon": "/show/tea.jpeg",
+      "price": 480
+    },
+    {
+      "title": "mastic gum",
+      "icon": "/show/tea.jpeg",
+      "price": 480
+    }
+  ],
+  "special": [
+    {
+      "title": "marshmallow",
+      "icon": "/show/tea.jpeg",
+      "price": 500
+    },
+    {
+      "title": "red kit",
+      "icon": "/show/tea.jpeg",
+      "price": 500
+    },
+    {
+      "title": "malaga",
+      "icon": "/show/tea.jpeg",
+      "price": 500
+    },
+    {
+      "title": "fresh fruit",
+      "icon": "/show/tea.jpeg",
+      "price": 500
+    },
+    {
+      "title": "tofita",
+      "icon": "/show/tea.jpeg",
+      "price": 500
+    },
+    {
+      "title": "cimix",
+      "icon": "/show/tea.jpeg",
+      "price": 500
+    },
+    {
+      "title": "happy melon",
+      "icon": "/show/tea.jpeg",
+      "price": 500
+    },
+    {
+      "title": "cheese cake",
+      "icon": "/show/tea.jpeg",
+      "price": 500
+    },
+    {
+      "title": "ragnar",
+      "icon": "/show/tea.jpeg",
+      "price": 500
+    },
+    {
+      "title": "kralix",
+      "icon": "/show/tea.jpeg",
+      "price": 500
+    },
+    {
+      "title": "poptip",
+      "icon": "/show/tea.jpeg",
+      "price": 500
+    },
+    {
+      "title": "extra rule",
+      "icon": "/show/tea.jpeg",
+      "price": 300
+    },
+    {
+      "title": "lord of cafe",
+      "icon": "/show/tea.jpeg",
+      "price": 300
+    }
+  ],
+  "specialblends": [
+    {
+      "title": "ice pera",
+      "icon": "/show/tea.jpeg",
+      "price": 500
+    },
+    {
+      "title": "layd strawberry apple",
+      "icon": "/show/tea.jpeg",
+      "price": 500
+    },
+    {
+      "title": "vanilla karamel orange",
+      "icon": "/show/tea.jpeg",
+      "price": 500
+    },
+    {
+      "title": "watermelon blackberry blueberries",
+      "icon": "/show/tea.jpeg",
+      "price": 500
+    },
+    {
+      "title": "baked planbir dejavu",
+      "icon": "/show/tea.jpeg",
+      "price": 500
+    },
+    {
+      "title": "lady love66 dejavu",
+      "icon": "/show/tea.jpeg",
+      "price": 500
+    }
+  ],
+  "nakhl": [
+    {
+      "title": "red apple",
+      "icon": "/show/tea.jpeg",
+      "price": 480
+    },
+    {
+      "title": "peach",
+      "icon": "/show/tea.jpeg",
+      "price": 480
+    },
+    {
+      "title": "cappuccino",
+      "icon": "/show/tea.jpeg",
+      "price": 480
+    }
+  ],
+  "bahrain": [
+    {
+      "title": "apple",
+      "icon": "/show/tea.jpeg",
+      "price": 480
+    },
+    {
+      "title": "orange",
+      "icon": "/show/tea.jpeg",
+      "price": 480
+    },
+    {
+      "title": "lemon",
+      "icon": "/show/tea.jpeg",
+      "price": 480
+    },
+    {
+      "title": "mint",
+      "icon": "/show/tea.jpeg",
+      "price": 480
+    },
+    {
+      "title": "cola",
+      "icon": "/show/tea.jpeg",
+      "price": 480
+    },
+    {
+      "title": "melon",
+      "icon": "/show/tea.jpeg",
+      "price": 480
+    },
+    {
+      "title": "strawberry",
+      "icon": "/show/tea.jpeg",
+      "price": 480
+    },
+    {
+      "title": "rose",
+      "icon": "/show/tea.jpeg",
+      "price": 480
+    },
+    {
+      "title": "peach",
+      "icon": "/show/tea.jpeg",
+      "price": 480
+    },
+    {
+      "title": "honey",
+      "icon": "/show/tea.jpeg",
+      "price": 480
+    },
+    {
+      "title": "karamel",
+      "icon": "/show/tea.jpeg",
+      "price": 480
+    },
+    {
+      "title": "extra rule",
+      "icon": "/show/tea.jpeg",
+      "price": 300
+    }
+  ],
+  "naturals": [
+    {
+      "title": "orange",
+      "icon": "/show/tea.jpeg",
+      "price": 1000
+    },
+    {
+      "title": "apple",
+      "icon": "/show/tea.jpeg",
+      "price": 1000
+    },
+    {
+      "title": "melon",
+      "icon": "/show/tea.jpeg",
+      "price": 1000
+    },
+    {
+      "title": "watermelon",
+      "icon": "/show/tea.jpeg",
+      "price": 1000
+    },
+    {
+      "title": "pineapple",
+      "icon": "/show/tea.jpeg",
+      "price": 1000
+    }
+  ],
+  "starbuzz": [
+    {
+      "title": "blue mist",
+      "icon": "/show/tea.jpeg",
+      "price": 600
+    },
+    {
+      "title": "blue melon",
+      "icon": "/show/tea.jpeg",
+      "price": 600
+    },
+    {
+      "title": "exotic",
+      "icon": "/show/tea.jpeg",
+      "price": 600
+    },
+    {
+      "title": "extra rule",
+      "icon": "/show/tea.jpeg",
+      "price": 600
+    }
+  ]
 }

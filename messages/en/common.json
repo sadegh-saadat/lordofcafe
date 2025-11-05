@@ -184,7 +184,7 @@
     ],
     "hookah": [
       {
-        "key": "alFakher",
+        "key": "alfakher",
         "title": "al fakher"
       },
       {
@@ -192,16 +192,16 @@
         "title": "Special"
       },
       {
-        "key": "specialBlend",
-        "title": "special presentation blend"
+        "key": "specialblends",
+        "title": "special blend"
       },
       {
         "key": "nakhl",
         "title": "nakhl"
       },
       {
-        "key": "bahrein",
-        "title": "bahrein"
+        "key": "bahrain",
+        "title": "bahrain"
       },
       {
         "key": "naturals",
@@ -267,8 +267,12 @@
     "frozenDrinks": "Frozen Drinks",
     "vitamins": "Vitamins",
     "coldDrinks": "Cold Drinks",
-    "classicHookah": "Classic Hookah",
-    "specialHookah": "Special Hookah",
-    "hookahFlavors": "Hookah Flavors"
+    "alfakher": "al fakher",
+    "special": "Special",
+    "specialblends": "special blend",
+    "nakhl": "nakhl",
+    "bahrain": "bahrain",
+    "naturals": "naturals",
+    "starbuzz": "starbuzz"
   }
 }

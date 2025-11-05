@@ -1,3 +1,276 @@
 {
-  
+  "alfakher": [
+    {
+      "title": "Anason",
+      "icon": "/show/tea.jpeg",
+      "price": 480
+    },
+    {
+      "title": "üzüm",
+      "icon": "/show/tea.jpeg",
+      "price": 480
+    },
+    {
+      "title": "sakız",
+      "icon": "/show/tea.jpeg",
+      "price": 480
+    },
+    {
+      "title": "vanilya",
+      "icon": "/show/tea.jpeg",
+      "price": 480
+    },
+    {
+      "title": "karpuz",
+      "icon": "/show/tea.jpeg",
+      "price": 480
+    },
+    {
+      "title": "cappuccino",
+      "icon": "/show/tea.jpeg",
+      "price": 480
+    },
+    {
+      "title": "şeftali",
+      "icon": "/show/tea.jpeg",
+      "price": 480
+    },
+    {
+      "title": "yaban mersini",
+      "icon": "/show/tea.jpeg",
+      "price": 480
+    },
+    {
+      "title": "sakız",
+      "icon": "/show/tea.jpeg",
+      "price": 480
+    }
+  ],
+  "special": [
+    {
+      "title": "marshmallow",
+      "icon": "/show/tea.jpeg",
+      "price": 500
+    },
+    {
+      "title": "kırmızı kit",
+      "icon": "/show/tea.jpeg",
+      "price": 500
+    },
+    {
+      "title": "malaga",
+      "icon": "/show/tea.jpeg",
+      "price": 500
+    },
+    {
+      "title": "taze meyve",
+      "icon": "/show/tea.jpeg",
+      "price": 500
+    },
+    {
+      "title": "tofita",
+      "icon": "/show/tea.jpeg",
+      "price": 500
+    },
+    {
+      "title": "cimix",
+      "icon": "/show/tea.jpeg",
+      "price": 500
+    },
+    {
+      "title": "mutlu kavun",
+      "icon": "/show/tea.jpeg",
+      "price": 500
+    },
+    {
+      "title": "cheesecake",
+      "icon": "/show/tea.jpeg",
+      "price": 500
+    },
+    {
+      "title": "ragnar",
+      "icon": "/show/tea.jpeg",
+      "price": 500
+    },
+    {
+      "title": "kralix",
+      "icon": "/show/tea.jpeg",
+      "price": 500
+    },
+    {
+      "title": "poptip",
+      "icon": "/show/tea.jpeg",
+      "price": 500
+    },
+    {
+      "title": "ekstra kural",
+      "icon": "/show/tea.jpeg",
+      "price": 300
+    },
+    {
+      "title": "lord of cafe",
+      "icon": "/show/tea.jpeg",
+      "price": 300
+    }
+  ],
+  "specialblends": [
+    {
+      "title": "ice pera",
+      "icon": "/show/tea.jpeg",
+      "price": 500
+    },
+    {
+      "title": "layd çilek elma",
+      "icon": "/show/tea.jpeg",
+      "price": 500
+    },
+    {
+      "title": "vanilya karamel portakal",
+      "icon": "/show/tea.jpeg",
+      "price": 500
+    },
+    {
+      "title": "karpuz böğürtlen yaban mersini",
+      "icon": "/show/tea.jpeg",
+      "price": 500
+    },
+    {
+      "title": "pişmiş planbir dejavu",
+      "icon": "/show/tea.jpeg",
+      "price": 500
+    },
+    {
+      "title": "hanım aşkı66 dejavu",
+      "icon": "/show/tea.jpeg",
+      "price": 500
+    }
+  ],
+  "nakhl": [
+    {
+      "title": "kırmızı elma",
+      "icon": "/show/tea.jpeg",
+      "price": 480
+    },
+    {
+      "title": "şeftali",
+      "icon": "/show/tea.jpeg",
+      "price": 480
+    },
+    {
+      "title": "cappuccino",
+      "icon": "/show/tea.jpeg",
+      "price": 480
+    }
+  ],
+  "bahrain": [
+    {
+      "title": "elma",
+      "icon": "/show/tea.jpeg",
+      "price": 480
+    },
+    {
+      "title": "portakal",
+      "icon": "/show/tea.jpeg",
+      "price": 480
+    },
+    {
+      "title": "limon",
+      "icon": "/show/tea.jpeg",
+      "price": 480
+    },
+    {
+      "title": "nane",
+      "icon": "/show/tea.jpeg",
+      "price": 480
+    },
+    {
+      "title": "kola",
+      "icon": "/show/tea.jpeg",
+      "price": 480
+    },
+    {
+      "title": "kavun",
+      "icon": "/show/tea.jpeg",
+      "price": 480
+    },
+    {
+      "title": "çilek",
+      "icon": "/show/tea.jpeg",
+      "price": 480
+    },
+    {
+      "title": "gül",
+      "icon": "/show/tea.jpeg",
+      "price": 480
+    },
+    {
+      "title": "şeftali",
+      "icon": "/show/tea.jpeg",
+      "price": 480
+    },
+    {
+      "title": "bal",
+      "icon": "/show/tea.jpeg",
+      "price": 480
+    },
+    {
+      "title": "karamel",
+      "icon": "/show/tea.jpeg",
+      "price": 480
+    },
+    {
+      "title": "ekstra kural",
+      "icon": "/show/tea.jpeg",
+      "price": 300
+    }
+  ],
+  "naturals": [
+    {
+      "title": "portakal",
+      "icon": "/show/tea.jpeg",
+      "price": 1000
+    },
+    {
+      "title": "elma",
+      "icon": "/show/tea.jpeg",
+      "price": 1000
+    },
+    {
+      "title": "kavun",
+      "icon": "/show/tea.jpeg",
+      "price": 1000
+    },
+    {
+      "title": "karpuz",
+      "icon": "/show/tea.jpeg",
+      "price": 1000
+    },
+    {
+      "title": "ananas",
+      "icon": "/show/tea.jpeg",
+      "price": 1000
+    }
+  ],
+  "starbuzz": [
+    {
+      "title": "mavi sis",
+      "icon": "/show/tea.jpeg",
+      "price": 600
+    },
+    {
+      "title": "mavi kavun",
+      "icon": "/show/tea.jpeg",
+      "price": 600
+    },
+    {
+      "title": "egzotik",
+      "icon": "/show/tea.jpeg",
+      "price": 600
+    },
+    {
+      "title": "ekstra kural",
+      "icon": "/show/tea.jpeg",
+      "price": 600
+    }
+  ]
 }

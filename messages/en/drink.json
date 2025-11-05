@@ -2,146 +2,131 @@
   "tea": [
     {
       "title": "glass tea",
-      "price": 100,
+      "price": 55,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "cup of tea",
-      "price": 100,
-      "icon": "/show/tea.jpeg"
-    },
-    {
-      "title": "apple tea",
-      "price": 100,
-      "icon": "/show/tea.jpeg"
-    },
-    {
-      "title": "blackberry tea",
-      "price": 100,
-      "icon": "/show/tea.jpeg"
-    },
-    {
-      "title": "sage tea",
-      "price": 100,
-      "icon": "/show/tea.jpeg"
-    },
-    {
-      "title": "chamomile tea",
-      "price": 100,
+      "price": 85,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "linden",
-      "price": 100,
+      "price": 180,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "Island tea",
-      "price": 100,
+      "price": 180,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "Winter tea",
-      "price": 100,
+      "price": 180,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "fennel tea",
-      "price": 100,
+      "price": 180,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "lemon tea",
-      "price": 100,
+      "price": 180,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "mint tea",
-      "price": 100,
+      "price": 180,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "green tea",
-      "price": 100,
+      "price": 180,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "jasmine tea",
-      "price": 100,
+      "price": 180,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "flu tea",
-      "price": 100,
+      "price": 180,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "daisy tea",
-      "price": 100,
+      "price": 180,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "oralet",
-      "price": 100,
+      "price": 85,
       "icon": "/show/tea.jpeg"
     }
   ],
   "turkishCoffee": [
     {
       "title": "Turkish coffee",
-      "price": 100,
+      "price": 140,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "mastic gum",
-      "price": 100,
+      "price": 150,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "mortar coffee",
-      "price": 100,
+      "price": 150,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "ottoman coffee",
-      "price": 100,
+      "price": 150,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "Pistachio coffee",
-      "price": 100,
+      "price": 150,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "nescafe",
-      "price": 100,
+      "price": 150,
       "icon": "/show/tea.jpeg"
     }
   ],
   "specialCoffee": [
     {
       "title": "espresso",
-      "price": 100,
+      "price": 140,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "double espresso",
-      "price": 100,
+      "price": 160,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "americano",
-      "price": 100,
+      "price": 165,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "cappuccino",
-      "price": 100,
+      "price": 165,
+      "icon": "/show/tea.jpeg"
+    },
+    {
+      "title": "cappuccino flavored",
+      "price": 170,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "macchiato",
-      "price": 100,
+      "price": 165,
       "icon": "/show/tea.jpeg"
     },
     {
@@ -151,415 +136,390 @@
     },
     {
       "title": "mocha",
-      "price": 100,
+      "price": 170,
+      "icon": "/show/tea.jpeg"
+    },
+    {
+      "title": "white mocha",
+      "price": 170,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "pipirit mocha",
-      "price": 100,
+      "price": 170,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "latte",
-      "price": 100,
+      "price": 170,
       "icon": "/show/tea.jpeg"
     },
     {
-      "title": "aromall latte",
-      "price": 100,
+      "title": "latte flavored",
+      "price": 170,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "cappuccino latte",
-      "price": 100,
+      "price": 170,
       "icon": "/show/tea.jpeg"
     }
   ],
   "regionalCoffee": [
     {
       "title": "filter coffee",
-      "price": 100,
+      "price": 180,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "colombian coffee",
-      "price": 100,
-      "icon": "/show/tea.jpeg"
-    },
-    {
-      "title": "ethiopian coffee",
-      "price": 100,
-      "icon": "/show/tea.jpeg"
-    },
-    {
-      "title": "kenyan coffee",
-      "price": 100,
-      "icon": "/show/tea.jpeg"
-    },
-    {
-      "title": "guatemalan coffee",
-      "price": 100,
-      "icon": "/show/tea.jpeg"
-    },
-    {
-      "title": "brazilian coffee",
-      "price": 100,
+      "price": 180,
       "icon": "/show/tea.jpeg"
     }
   ],
   "hotChocolate": [
     {
       "title": "hot chocolate",
-      "price": 100,
+      "price": 180,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "strawberry chocolate",
-      "price": 100,
+      "price": 180,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "banana chocolate",
-      "price": 100,
+      "price": 180,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "caramel chocolate",
-      "price": 100,
+      "price": 180,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "sahlep",
-      "price": 100,
+      "price": 180,
       "icon": "/show/tea.jpeg"
     }
   ],
   "coldCoffee": [
     {
       "title": "iced americano",
-      "price": 100,
+      "price": 200,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "iced latte",
-      "price": 100,
+      "price": 200,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "iced cappuccino",
-      "price": 100,
+      "price": 200,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "iced mocha",
-      "price": 100,
+      "price": 200,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "iced white mocha",
-      "price": 100,
+      "price": 200,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "iced pipirit mocha",
-      "price": 100,
+      "price": 200,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "coco star",
-      "price": 100,
+      "price": 200,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "ice chocolate",
-      "price": 100,
+      "price": 200,
       "icon": "/show/tea.jpeg"
     }
   ],
   "frappe": [
     {
       "title": "classic frappe",
-      "price": 100,
+      "price": 200,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "chocolatte frappe",
-      "price": 100,
+      "price": 200,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "caramel frappe",
-      "price": 100,
+      "price": 200,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "vanilla frappe",
-      "price": 100,
+      "price": 200,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "strawberry frappe",
-      "price": 100,
+      "price": 200,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "banana frappe",
-      "price": 100,
-      "icon": "/show/tea.jpeg"
-    },
-    {
-      "title": "mocha frappe",
-      "price": 100,
-      "icon": "/show/tea.jpeg"
-    },
-    {
-      "title": "hazelnut frappe",
-      "price": 100,
+      "price": 200,
       "icon": "/show/tea.jpeg"
     }
   ],
   "milkshake": [
     {
       "title": "chocolate milkshake",
-      "price": 100,
+      "price": 240,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "vanilla milkshake",
-      "price": 100,
+      "price": 240,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "strawberry milkshake",
-      "price": 100,
+      "price": 240,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "banana milkshake",
-      "price": 100,
+      "price": 240,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "caramel milkshake",
-      "price": 100,
+      "price": 240,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "watermelon milkshake",
-      "price": 100,
+      "price": 240,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "atom milkshake",
-      "price": 100,
+      "price": 240,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "kiwi milkshake",
-      "price": 100,
+      "price": 240,
       "icon": "/show/tea.jpeg"
     }
   ],
   "smoothie": [
     {
       "title": "mango smoothie",
-      "price": 100,
+      "price": 240,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "strawberry smoothie",
-      "price": 100,
+      "price": 240,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "banana smoothie",
-      "price": 100,
+      "price": 240,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "raspberry smoothie",
-      "price": 100,
+      "price": 240,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "blackberry smoothie",
-      "price": 100,
+      "price": 240,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "black mulberry",
-      "price": 100,
+      "price": 240,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "kiwi smoothie",
-      "price": 100,
+      "price": 240,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "forest fruit",
-      "price": 100,
+      "price": 240,
       "icon": "/show/tea.jpeg"
     }
   ],
   "frozenDrinks": [
     {
       "title": "banana",
-      "price": 100,
+      "price": 200,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "strawberry",
-      "price": 100,
+      "price": 200,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "raspberry",
-      "price": 100,
+      "price": 200,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "mango",
-      "price": 100,
+      "price": 200,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "kiwi",
-      "price": 100,
+      "price": 200,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "orangeade",
-      "price": 100,
+      "price": 200,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "blackberry",
-      "price": 100,
+      "price": 200,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "peach lemonade",
-      "price": 100,
+      "price": 200,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "caramel",
-      "price": 100,
+      "price": 200,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "forest fruit",
-      "price": 100,
+      "price": 200,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "peach",
-      "price": 100,
+      "price": 200,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "mojito",
-      "price": 100,
+      "price": 200,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "fairway",
-      "price": 100,
+      "price": 200,
       "icon": "/show/tea.jpeg"
     }
   ],
   "vitamins": [
     {
       "title": "lemonade",
-      "price": 100,
+      "price": 180,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "black mulberry",
-      "price": 100,
+      "price": 200,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "orange",
-      "price": 100,
+      "price": 200,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "pomegranate",
-      "price": 100,
+      "price": 200,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "mix",
-      "price": 100,
+      "price": 200,
       "icon": "/show/tea.jpeg"
     }
   ],
   "coldDrinks": [
     {
       "title": "cola",
-      "price": 100,
+      "price": 95,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "fanta",
-      "price": 100,
+      "price": 95,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "sprite",
-      "price": 100,
+      "price": 95,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "fuse tea",
-      "price": 100,
+      "price": 95,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "cappy types",
-      "price": 100,
+      "price": 95,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "plain mineral water",
-      "price": 100,
+      "price": 80,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "fruit-flavored soda",
-      "price": 100,
+      "price": 85,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "water",
-      "price": 100,
+      "price": 50,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "soda",
-      "price": 100,
+      "price": 80,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "ayran",
-      "price": 100,
+      "price": 90,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "redbull",
-      "price": 100,
+      "price": 140,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "redbull atom",
-      "price": 100,
+      "price": 300,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "churchill",
-      "price": 100,
+      "price": 95,
       "icon": "/show/tea.jpeg"
     }
   ]

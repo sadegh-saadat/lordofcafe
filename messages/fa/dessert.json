@@ -2,72 +2,72 @@
 	"dessert": [
 		{
 			"title": "انواع کیک خامه‌ای",
-			"price": 100,
+			"price": 240,
 			"icon": "/show/tea.jpeg"
 		},
 		{
 			"title": "چیزکیک سن سباستین",
-			"price": 100,
+			"price": 400,
 			"icon": "/show/tea.jpeg"
 		},
 		{
 			"title": "شیر برنج",
-			"price": 100,
+			"price": 250,
 			"icon": "/show/tea.jpeg"
 		},
 		{
 			"title": "سوفله",
-			"price": 100,
+			"price": 240,
 			"icon": "/show/tea.jpeg"
 		},
 		{
 			"title": "کاتمر",
-			"price": 100,
+			"price": 260,
 			"icon": "/show/tea.jpeg"
 		},
 		{
 			"title": "کاتمر میوه‌ای",
-			"price": 100,
+			"price": 400,
 			"icon": "/show/tea.jpeg"
 		},
 		{
 			"title": "کنافه",
-			"price": 100,
+			"price": 260,
 			"icon": "/show/tea.jpeg"
 		},
 		{
 			"title": "بستنی (۴ اسکوپ)",
-			"price": 100,
+			"price": 300,
 			"icon": "/show/tea.jpeg"
 		},
 		{
 			"title": "اسکوپ بستنی",
-			"price": 100,
+			"price": 80,
 			"icon": "/show/tea.jpeg"
 		},
 		{
 			"title": "وافل عشق لرد",
-			"price": 100,
+			"price": 400,
 			"icon": "/show/tea.jpeg"
 		},
 		{
 			"title": "بشقاب آجیل",
-			"price": 100,
+			"price": 430,
 			"icon": "/show/tea.jpeg"
 		},
 		{
 			"title": "وافل میوه‌ای",
-			"price": 100,
+			"price": 500,
 			"icon": "/show/tea.jpeg"
 		},
 		{
 			"title": "بشقاب میوه یک پرس",
-			"price": 100,
+			"price": 450,
 			"icon": "/show/tea.jpeg"
 		},
 		{
 			"title": "دیس میوه ویژه",
-			"price": 100,
+			"price": 1000,
 			"icon": "/show/tea.jpeg"
 		}
 	]

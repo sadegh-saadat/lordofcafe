@@ -2,146 +2,131 @@
   "tea": [
     {
       "title": "bardak çay",
-      "price": 100,
+      "price": 55,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "fincan çay",
-      "price": 100,
-      "icon": "/show/tea.jpeg"
-    },
-    {
-      "title": "elma çayı",
-      "price": 100,
-      "icon": "/show/tea.jpeg"
-    },
-    {
-      "title": "böğürtlen çayı",
-      "price": 100,
-      "icon": "/show/tea.jpeg"
-    },
-    {
-      "title": "adaçayı",
-      "price": 100,
-      "icon": "/show/tea.jpeg"
-    },
-    {
-      "title": "papatya çayı",
-      "price": 100,
+      "price": 85,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "ıhlamur",
-      "price": 100,
+      "price": 180,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "ada çayı",
-      "price": 100,
+      "price": 180,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "kış çayı",
-      "price": 100,
+      "price": 180,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "rezene çayı",
-      "price": 100,
+      "price": 180,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "limon çayı",
-      "price": 100,
+      "price": 180,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "nane çayı",
-      "price": 100,
+      "price": 180,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "yeşil çay",
-      "price": 100,
+      "price": 180,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "yasemin çayı",
-      "price": 100,
+      "price": 180,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "grip çayı",
-      "price": 100,
+      "price": 180,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "papatya çayı",
-      "price": 100,
+      "price": 180,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "oralet",
-      "price": 100,
+      "price": 85,
       "icon": "/show/tea.jpeg"
     }
   ],
   "turkishCoffee": [
     {
       "title": "Türk kahvesi",
-      "price": 100,
+      "price": 140,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "sakızlı kahve",
-      "price": 100,
+      "price": 150,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "dibek kahvesi",
-      "price": 100,
+      "price": 150,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "osmanlı kahvesi",
-      "price": 100,
+      "price": 150,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "fıstıklı kahve",
-      "price": 100,
+      "price": 150,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "neskafe",
-      "price": 100,
+      "price": 150,
       "icon": "/show/tea.jpeg"
     }
   ],
   "specialCoffee": [
     {
       "title": "espresso",
-      "price": 100,
+      "price": 140,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "double espresso",
-      "price": 100,
+      "price": 160,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "americano",
-      "price": 100,
+      "price": 165,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "cappuccino",
-      "price": 100,
+      "price": 165,
+      "icon": "/show/tea.jpeg"
+    },
+    {
+      "title": "aromalı cappuccino",
+      "price": 170,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "macchiato",
-      "price": 100,
+      "price": 165,
       "icon": "/show/tea.jpeg"
     },
     {
@@ -151,415 +136,390 @@
     },
     {
       "title": "mocha",
-      "price": 100,
+      "price": 170,
+      "icon": "/show/tea.jpeg"
+    },
+    {
+      "title": "white mocha",
+      "price": 170,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "pipirit mocha",
-      "price": 100,
+      "price": 170,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "latte",
-      "price": 100,
+      "price": 170,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "aromalı latte",
-      "price": 100,
+      "price": 170,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "cappuccino latte",
-      "price": 100,
+      "price": 170,
       "icon": "/show/tea.jpeg"
     }
   ],
   "regionalCoffee": [
     {
       "title": "filtre kahve",
-      "price": 100,
+      "price": 180,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "kolombiya kahvesi",
-      "price": 100,
-      "icon": "/show/tea.jpeg"
-    },
-    {
-      "title": "etiyopya kahvesi",
-      "price": 100,
-      "icon": "/show/tea.jpeg"
-    },
-    {
-      "title": "kenya kahvesi",
-      "price": 100,
-      "icon": "/show/tea.jpeg"
-    },
-    {
-      "title": "guatemala kahvesi",
-      "price": 100,
-      "icon": "/show/tea.jpeg"
-    },
-    {
-      "title": "brezilya kahvesi",
-      "price": 100,
+      "price": 180,
       "icon": "/show/tea.jpeg"
     }
   ],
   "hotChocolate": [
     {
       "title": "sıcak çikolata",
-      "price": 100,
+      "price": 180,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "çilekli çikolata",
-      "price": 100,
+      "price": 180,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "muzlu çikolata",
-      "price": 100,
+      "price": 180,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "karamelli çikolata",
-      "price": 100,
+      "price": 180,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "salep",
-      "price": 100,
+      "price": 180,
       "icon": "/show/tea.jpeg"
     }
   ],
   "coldCoffee": [
     {
       "title": "buzlu americano",
-      "price": 100,
+      "price": 200,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "buzlu latte",
-      "price": 100,
+      "price": 200,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "buzlu cappuccino",
-      "price": 100,
+      "price": 200,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "buzlu mocha",
-      "price": 100,
+      "price": 200,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "buzlu white mocha",
-      "price": 100,
+      "price": 200,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "buzlu pipirit mocha",
-      "price": 100,
+      "price": 200,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "coco star",
-      "price": 100,
+      "price": 200,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "buzlu çikolata",
-      "price": 100,
+      "price": 200,
       "icon": "/show/tea.jpeg"
     }
   ],
   "frappe": [
     {
       "title": "klasik frappe",
-      "price": 100,
+      "price": 200,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "çikolatalı frappe",
-      "price": 100,
+      "price": 200,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "karamelli frappe",
-      "price": 100,
+      "price": 200,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "vanilyalı frappe",
-      "price": 100,
+      "price": 200,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "çilekli frappe",
-      "price": 100,
+      "price": 200,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "muzlu frappe",
-      "price": 100,
-      "icon": "/show/tea.jpeg"
-    },
-    {
-      "title": "mocha frappe",
-      "price": 100,
-      "icon": "/show/tea.jpeg"
-    },
-    {
-      "title": "fındıklı frappe",
-      "price": 100,
+      "price": 200,
       "icon": "/show/tea.jpeg"
     }
   ],
   "milkshake": [
     {
       "title": "çikolatalı milkshake",
-      "price": 100,
+      "price": 240,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "vanilyalı milkshake",
-      "price": 100,
+      "price": 240,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "çilekli milkshake",
-      "price": 100,
+      "price": 240,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "muzlu milkshake",
-      "price": 100,
+      "price": 240,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "karamelli milkshake",
-      "price": 100,
+      "price": 240,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "karpuzlu milkshake",
-      "price": 100,
+      "price": 240,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "atom milkshake",
-      "price": 100,
+      "price": 240,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "kivili milkshake",
-      "price": 100,
+      "price": 240,
       "icon": "/show/tea.jpeg"
     }
   ],
   "smoothie": [
     {
       "title": "mango smoothie",
-      "price": 100,
+      "price": 240,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "çilekli smoothie",
-      "price": 100, 
+      "price": 240, 
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "muzlu smoothie",
-      "price": 100,
+      "price": 240,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "frambuazlı smoothie",
-      "price": 100,
+      "price": 240,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "böğürtlenli smoothie",
-      "price": 100,
+      "price": 240,
       "icon": "/show/tea.jpeg"
     },
     {
-      "title": "dutlu smoothie",
-      "price": 100,
+      "title": "siyah dut",
+      "price": 240,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "kivili smoothie",
-      "price": 100,
+      "price": 240,
       "icon": "/show/tea.jpeg"
     },
     {
-      "title": "orman meyveli smoothie",
-      "price": 100,
+      "title": "orman meyvesi",
+      "price": 240,
       "icon": "/show/tea.jpeg"
     }
   ],
   "frozenDrinks": [
     {
-      "title": "muzlu frozen",
-      "price": 100,
+      "title": "muz",
+      "price": 200,
       "icon": "/show/tea.jpeg"
     },
     {
-      "title": "çilekli frozen",
-      "price": 100,
+      "title": "çilek",
+      "price": 200,
       "icon": "/show/tea.jpeg"
     },
     {
-      "title": "frambuazlı frozen",
-      "price": 100,
+      "title": "frambuaz",
+      "price": 200,
       "icon": "/show/tea.jpeg"
     },
     {
-      "title": "mangolu frozen",
-      "price": 100,
+      "title": "mango",
+      "price": 200,
       "icon": "/show/tea.jpeg"
     },
     {
-      "title": "kivili frozen",
-      "price": 100,
+      "title": "kivi",
+      "price": 200,
       "icon": "/show/tea.jpeg"
     },
     {
-      "title": "portakallı frozen",
-      "price": 100,
+      "title": "portakallı",
+      "price": 200,
       "icon": "/show/tea.jpeg"
     },
     {
-      "title": "böğürtlenli frozen",
-      "price": 100,
+      "title": "böğürtlen",
+      "price": 200,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "şeftalili limonata",
-      "price": 100,
+      "price": 200,
       "icon": "/show/tea.jpeg"
     },
     {
-      "title": "karamelli frozen",
-      "price": 100,
+      "title": "karamel",
+      "price": 200,
       "icon": "/show/tea.jpeg"
     },
     {
-      "title": "orman meyveli frozen",
-      "price": 100,
+      "title": "orman meyvesi",
+      "price": 200,
       "icon": "/show/tea.jpeg"
     },
     {
-      "title": "şeftalili frozen",
-      "price": 100,
+      "title": "şeftali",
+      "price": 200,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "mojito",
-      "price": 100,
+      "price": 200,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "fairway",
-      "price": 100,
+      "price": 200,
       "icon": "/show/tea.jpeg"
     }
   ],
   "vitamins": [
     {
       "title": "limonata",
-      "price": 100,
+      "price": 180,
       "icon": "/show/tea.jpeg"
     },
     {
-      "title": "dutlu",
-      "price": 100,
+      "title": "siyah dut",
+      "price": 200,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "portakal",
-      "price": 100,
+      "price": 200,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "nar",
-      "price": 100,
+      "price": 200,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "karışık",
-      "price": 100,
+      "price": 200,
       "icon": "/show/tea.jpeg"
     }
   ],
   "coldDrinks": [
     {
       "title": "kola",
-      "price": 100,
+      "price": 95,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "fanta",
-      "price": 100,
+      "price": 95,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "sprite",
-      "price": 100,
+      "price": 95,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "fuse tea",
-      "price": 100,
+      "price": 95,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "cappy çeşitleri",
-      "price": 100,
+      "price": 95,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "sade maden suyu",
-      "price": 100,
+      "price": 80,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "meyveli soda",
-      "price": 100,
+      "price": 85,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "su",
-      "price": 100,
+      "price": 50,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "soda",
-      "price": 100,
+      "price": 80,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "ayran",
-      "price": 100,
+      "price": 90,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "redbull",
-      "price": 100,
+      "price": 140,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "redbull atom",
-      "price": 100,
+      "price": 300,
       "icon": "/show/tea.jpeg"
     },
     {
       "title": "churchill",
-      "price": 100,
+      "price": 95,
       "icon": "/show/tea.jpeg"
     }
   ]

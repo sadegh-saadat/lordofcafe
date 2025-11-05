@@ -124,9 +124,67 @@
         "title": "Soğuk İçecekler"
       }
     ],
+    "dessert": [
+      {
+        "key": "creamCakeVarieties",
+        "title": "Kremalı Pasta Çeşitleri"
+      },
+      {
+        "key": "sanSebastianCheesecake",
+        "title": "San Sebastian Cheesecake"
+      },
+      {
+        "key": "ricePudding",
+        "title": "Sütlaç"
+      },
+      {
+        "key": "souffle",
+        "title": "Sufle"
+      },
+      {
+        "key": "katmer",
+        "title": "Katmer"
+      },
+      {
+        "key": "fruitsKatmer",
+        "title": "Meyveli Katmer"
+      },
+      {
+        "key": "künefe",
+        "title": "Künefe"
+      },
+      {
+        "key": "iceCream4Ball",
+        "title": "(4 Top) Dondurma"
+      },
+      {
+        "key": "iceCreamBall",
+        "title": "Dondurma Topu"
+      },
+      {
+        "key": "lordOfWaffleLove",
+        "title": "Waffle Aşkının Lordu"
+      },
+      {
+        "key": "snackNutsPlate",
+        "title": "Kuruyemiş Tabağı"
+      },
+      {
+        "key": "fruitsPlateWaffle",
+        "title": "Meyveli Waffle Tabağı"
+      },
+      {
+        "key": "portionFruitPlate",
+        "title": "Porsiyon Meyve Tabağı"
+      },
+      {
+        "key": "specialFruitPlatter",
+        "title": "Özel Meyve Tabağı"
+      }
+    ],
     "hookah": [
       {
-        "key": "alFakher",
+        "key": "alfakher",
         "title": "al fakher"
       },
       {
@@ -134,7 +192,7 @@
         "title": "Özel"
       },
       {
-        "key": "specialBlend",
+        "key": "specialblends",
         "title": "özel sunum karışımı"
       },
       {
@@ -142,7 +200,7 @@
         "title": "nakhl"
       },
       {
-        "key": "bahrein",
+        "key": "bahrain",
         "title": "bahrein"
       },
       {
@@ -209,8 +267,12 @@
     "frozenDrinks": "Donmuş İçecekler",
     "vitamins": "Vitamin İçecekleri",
     "coldDrinks": "Soğuk İçecekler",
-    "classicHookah": "Klasik Nargile",
-    "specialHookah": "Özel Nargile",
-    "hookahFlavors": "Nargile Aromaları"
+    "alfakher": "al fakher",
+    "special": "Özel",
+    "specialblends": "özel karışım",
+    "nakhl": "nakhl",
+    "bahrain": "bahrein",
+    "naturals": "doğal",
+    "starbuzz": "starbuzz"
   }
 }

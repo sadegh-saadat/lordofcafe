@@ -43,11 +43,11 @@ export type FoodCategory = keyof typeof FOOD_GROUPS;
 
 // ======================= Hookah Groups =======================
 export const HOOKAH_GROUPS = {
-  alFakher: ['alFakher'],
+  alfakher: ['alfakher'],
   special: ['special'],
-  specialBlends: ['specialBlends'],
+  specialblends: ['specialblends'],
   nakhl: ['nakhl'],
-  bahrein: ['bahrain'],
+  bahrain: ['bahrain'],
   naturals: ['naturals'],
   starbuzz: ['starbuzz'],
 } as const;
