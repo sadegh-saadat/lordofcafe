@@ -28,7 +28,7 @@ export default function ButtonNav() {
   }, [pathname]);
 
   return (
-    <div className="z-50">
+    <div className="z-50" dir="ltr">
       <div 
         onClick={() => setActive(false)}
         className={cn(
@@ -57,7 +57,7 @@ export default function ButtonNav() {
         </button>
         <div className="relative -z-10">
           <div className={cn(
-            "absolute bottom-0 bg-amber-800 rounded-[8px_8px_34px_8px] px-2 py-4 w-[80vw] h-[25vh] right-0 origin-bottom-right flex flex-col items-start justify-between transform transition-all duration-300 ease-in-out",
+            "absolute bottom-0 bg-amber-800 rounded-[8px_8px_34px_8px] px-2 py-4 w-[80vw] h-[28vh] right-0 origin-bottom-right flex flex-col items-start justify-between transform transition-all duration-300 ease-in-out",
             active ? "opacity-100 translate-x-0" : "opacity-0 translate-x-4"
           )}>
             <div className="flex flex-col items-start justify-between h-full">
@@ -85,6 +85,18 @@ export default function ButtonNav() {
                   </ul>
                 )
               })}
+              <Link
+              href="/home"
+              className="flex items-center text-2xl px-4 py-1 gap-3"
+              >
+                <Image
+                  alt="icon"
+                  src="/home.svg"
+                  width={32}
+                  height={32}
+                />
+                Home
+              </Link>
             </div>
           </div>
         </div>

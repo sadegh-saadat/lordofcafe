@@ -1,7 +1,5 @@
 {
   "buttonNav": {
-    "wellcome": "خوش آمدید به لرد کافه",
-    "localeSwitcher": "تغییر زبان",
     "food": [
       {
         "key": "breakfast",
@@ -82,8 +80,24 @@
         "title": "چای"
       },
       {
-        "key": "coffee",
-        "title": "قهوه"
+        "key": "turkishCoffee",
+        "title": "قهوه ترک"
+      },
+      {
+        "key": "specialCoffee",
+        "title": "قهوه ویژه"
+      },
+      {
+        "key": "regionalCoffee",
+        "title": "قهوه منطقه‌ای"
+      },
+      {
+        "key": "hotChocolate",
+        "title": "هات چاکلت"
+      },
+      {
+        "key": "coldCoffee",
+        "title": "قهوه سرد"
       },
       {
         "key": "frappe",
@@ -162,5 +176,41 @@
         "href": "/hookah"
       }
     ]
+  },
+  "groupTitles": {
+    "breakfast": "صبحانه",
+    "eggs": "تخم‌ مرغ",
+    "menemen": "منمن",
+    "omelette": "املت",
+    "toast": "تُست",
+    "flatbread": "نان تخت",
+    "TurkishPancakes": "پنکیک ترکی",
+    "snacks": "میان‌وعده‌ها",
+    "coldSandwiches": "ساندویچ سرد",
+    "burgers": "برگرها",
+    "pizza": "پیتزا",
+    "salads": "سالادها",
+    "pasta": "پاستا",
+    "crepes": "کرپ",
+    "fajitas": "فاهیتا",
+    "meatGrill": "کباب گوشت",
+    "whiteMeats": "گوشت سفید",
+    "panFried": "غذاهای سرخ‌کردنی",
+    "dessert": "دسر",
+    "tea": "چای",
+    "turkishCoffee": "قهوه ترک",
+    "specialCoffee": "قهوه ویژه",
+    "regionalCoffee": "قهوه منطقه‌ای",
+    "hotChocolate": "هات چاکلت",
+    "coldCoffee": "قهوه سرد",
+    "frappe": "فراپه",
+    "milkshake": "میلک‌شیک",
+    "smoothie": "اسموتی",
+    "frozenDrinks": "نوشیدنی یخ‌زده",
+    "vitamins": "ویتامینی",
+    "coldDrinks": "نوشیدنی سرد",
+    "classicHookah": "قلیان کلاسیک",
+    "specialHookah": "قلیان ویژه",
+    "hookahFlavors": "طعم‌های قلیان"
   }
 }

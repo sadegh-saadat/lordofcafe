@@ -1,729 +1,728 @@
-  
-{
-	"breakfast": [
-		{
-			"title": "Günün çorbası",
-			"price": 100,
-			"icon": ""
-		},
-		{
-			"title": "Hızlı kahvaltı",
-			"price": 100,
-			"icon": ""
-		},
-		{
-			"title": "Lord kahvaltı tabağı",
-			"price": 100,
-			"icon": ""
-		},
-		{
-			"title": "Karışık kahvaltı",
-			"price": 100,
-			"icon": ""
-		},
-		{
-			"title": "Yumurta ekmeği",
-			"price": 100,
-			"icon": ""
-		},
-		{
-			"title": "Pankek tabağı",
-			"price": 100,	
-			"icon": ""
-		},
-		{
-			"title": "Kızarmış sosis",
-			"price": 100,
-			"icon": ""
-		},
-		{
-			"title": "Güveçte Bingöl kavurma",
-			"price": 100,
-			"icon": ""
-		},
-		{
-			"title": "Kızarmış hellim peyniri",
-			"price": 100,
-			"icon": ""
-		},
-		{
-			"title": "Peynir tabağı",
-			"price": 100,
-			"icon": ""
-		},
-		{
-			"title": "Sosis tabağı",
-			"price": 100,
-			"icon": ""
-		},
-		{
-			"title": "Zeytin tabağı",
-			"price": 100,
-			"icon": ""
-		},
-		{
-			"title": "Bal-reçel",
-			"price": 100,
-			"icon": ""
-		},
-		{
-			"title": "Tereyağı",
-			"price": 100,	
-			"icon": ""
-		},
-		{
-			"title": "Haşlanmış yumurta",
-			"price": 100,
-			"icon": ""
-		},
-		{
-			"title": "Kahvaltı sosu",
-			"price": 100,
-			"icon": ""
-		}
-	],
-	"eggs": [
-		{
-			"title": "Sade yumurta",
-			"price": 100,
-			"icon": ""
-		},
-		{
-			"title": "Sosisli yumurta",
-			"price": 100,
-			"icon": ""
-		},
-		{
-			"title": "Beyaz peynirli yumurta",
-			"price": 100,	
-			"icon": ""
-		},
-		{
-			"title": "Sucuklu yumurta",
-			"price": 100,
-			"icon": ""
-		},
-		{
-			"title": "Karışık yumurta",
-			"price": 100,
-			"icon": ""
-		},
-		{
-			"title": "Kızarmış yumurta",
-			"price": 100,
-			"icon": ""
-		}
-	],
-	"menemen": [
-		{
-			"title": "Klasik menemen",
-			"price": 100,
-			"icon": ""
-		},
-		{
-			"title": "Sosisli menemen",
-			"price": 100,
-			"icon": ""
-		},
-		{
-			"title": "Peynirli menemen",
-			"price": 100,
-			"icon": ""
-		},
-		{
-			"title": "Karışık menemen",
-			"price": 100,
-			"icon": ""
-		},
-		{
-			"title": "Kızarmış menemen",
-			"price": 100,	
-			"icon": ""
-		}
-	],
-	"omelette": [
-		{
-			"title": "Klasik omlet",
-			"price": 100,
-			"icon": ""
-		},
-		{
-			"title": "Sosisli omlet",
-			"price": 100,
-			"icon": ""
-		},
-		{
-			"title": "Beyaz peynirli omlet",
-			"price": 100,
-			"icon": ""
-		},
-		{
-			"title": "Karışık omlet",
-			"price": 100,
-			"icon": ""
-		},
-		{
-			"title": "Kızarmış omlet",
-			"price": 100,
-			"icon": ""
-		},
-		{
-			"title": "Sebzeli omlet",
-			"price": 100,
-			"icon": ""
-		}
-	],
-	"toast": [
-		{
-			"title": "Peynirli tost",
-			"price": 100,
-			"icon": ""
-		},
-		{
-			"title": "Beyaz peynir ve domatesli tost",
-			"price": 100,
-			"icon": ""
-		},
-		{
-			"title": "Özel tost",
-			"price": 100,
-			"icon": ""
-		},
-		{
-			"title": "Karışık tost",
-			"price": 100,
-			"icon": ""
-		},
-		{
-			"title": "Çift peynirli tost",
-			"price": 100,
-			"icon": ""
-		},
-		{
-			"title": "Hala tostu",
-			"price": 100,
-			"icon": ""
-		},
-		{
-			"title": "Leyla tostu",
-			"price": 100,
-			"icon": ""
-		},
-		{
-			"title": "Ayvalık tostu",
-			"price": 100,
-			"icon": ""
-		}
-	],
-	"flatbread": [
-		{
-			"title": "Karışık pide",
-			"price": 100,
-			"icon": ""
-		},
-		{
-			"title": "Karışık tost",
-			"price": 100,
-			"icon": ""
-		},
-		{
-			"title": "Hala tostu",
-			"price": 100,
-			"icon": ""
-		},
-		{
-			"title": "Karışık pide",
-			"price": 100,
-			"icon": ""
-		},
-		{
-			"title": "Kavurmalı tost",
-			"price": 100,
-			"icon": ""
-		}
-	],
-	"TurkishPancakes": [
-		{
-			"title": "Patatesli ve peynirli krep",
-			"price": 100,
-			"icon": ""
-		},
-		{
-			"title": "Peynirli krep",
-			"price": 100,
-			"icon": ""
-		},
-		{
-			"title": "Kıymalı ve peynirli krep",
-			"price": 100,
-			"icon": ""
-		},
-		{
-			"title": "Peynirli krep",
-			"price": 100,	
-			"icon": ""
-		}
-	],
-	"snacks": [
-		{
-			"title": "Cajun tavuk sepeti",
-			"price": 100,
-			"icon": ""
-		},
-		{
-			"title": "Baharatlı patates dilimleri",
-			"price": 100,	
-			"icon": ""
-		},
-		{
-			"title": "Kızarmış patates",
-			"price": 100,
-			"icon": ""
-		},
-		{
-			"title": "Tavuk nugget",
-			"price": 100,
-			"icon": ""
-		},
-		{
-			"title": "Küçük börek",
-			"price": 100,
-			"icon": ""
-		},
-		{
-			"title": "Soğan halkası",
-			"price": 100,
-			"icon": ""
-		},
-		{
-			"title": "Karışık tabaklar",
-			"price": 100,
-			"icon": ""
-		},
-		{
-			"title": "Sosis tabağı",
-			"price": 100,
-			"icon": ""
-		}
-	],
-	"coldSandwiches": [
-		{
-			"title": "Klasik sandviç",
-			"price": 100,
-			"icon": ""
-		},
-		{
-			"title": "Beyaz peynirli sandviç",
-			"price": 100,
-			"icon": ""
-		},
-		{
-			"title": "Ton balıklı sandviç",
-			"price": 100,
-			"icon": ""
-		}
-	],
-	"burgers": [
-		{
-			"title": "Klasik burger",
-			"price": 100,
-			"icon": ""
-		},
-		{
-			"title": "Peynirli burger",
-			"price": 100,
-			"icon": ""
-		},
-		{
-			"title": "Tavuk burger",
-			"price": 100,
-			"icon": ""
-		},
-		{
-			"title": "Mantar burger",
-			"price": 100,
-			"icon": ""
-		},
-		{
-			"title": "Çift lord burger",
-			"price": 100,
-			"icon": ""
-		},
-		{
-			"title": "Dinamit burger",
-			"price": 100,
-			"icon": ""
-		}
-	],
-	"pizza": [
-		{
-			"title": "Margarita pizza",
-			"price": 100,
-			"icon": ""
-		},
-		{
-			"title": "Sosisli pizza",
-			"price": 100,
-			"icon": ""
-		},
-		{
-			"title": "Tavuklu pizza",
-			"price": 100,
-			"icon": ""
-		},
-		{
-			"title": "Vejetaryen pizza",
-			"price": 100,
-			"icon": ""
-		},
-		{
-			"title": "Karışık pizza",
-			"price": 100,
-			"icon": ""
-		},
-		{
-			"title": "Kavurmalı pizza",
-			"price": 100,
-			"icon": ""
-		},
-		{
-			"title": "Üç peynirli pizza",
-			"price": 100,
-			"icon": ""
-		},
-		{
-			"title": "Ton ton pizza",
-			"price": 100,
-			"icon": ""
-		},
-		{
-			"title": "Fajita pizza",
-			"price": 100,
-			"icon": ""
-		},
-		{
-			"title": "Turist pizza",
-			"price": 100,	
-			"icon": ""
-		}
-	],
-	"salads": [
-		{
-			"title": "Sezar salata",
-			"price": 100,
-			"icon": ""
-		},
-		{
-			"title": "Biftek salata",
-			"price": 100,
-			"icon": ""
-		},
-		{
-			"title": "Akdeniz salata",
-			"price": 100,
-			"icon": ""
-		},
-		{
-			"title": "Ton balıklı salata",
-			"price": 100,
-			"icon": ""
-		},
-		{
-			"title": "Cajun salata",
-			"price": 100,
-			"icon": ""
-		},
-		{
-			"title": "Izgara tavuk salata",
-			"price": 100,
-			"icon": ""
-		},
-		{
-			"title": "Izgara köfte salata",
-			"price": 100,
-			"icon": ""
-		},
-		{
-			"title": "Çoban salata",
-			"price": 100,
-			"icon": ""
-		}
-	],
-	"pasta": [
-		{
-			"title": "Bolonez makarna",
-			"price": 100,
-			"icon": ""
-		},
-		{
-			"title": "Fettucine alfredo",
-			"price": 100,
-			"icon": ""
-		},
-		{
-			"title": "Acılı penne",
-			"price": 100,
-			"icon": ""
-		},
-		{
-			"title": "Napolitan makarna",
-			"price": 100,
-			"icon": ""
-		},
-		{
-			"title": "Köri soslu penne",
-			"price": 100,
-			"icon": ""
-		},
-		{
-			"title": "Üç peynirli fettucine",
-			"price": 100,
-			"icon": ""
-		},
-		{
-			"title": "Köfteli penne",
-			"price": 100,
-			"icon": ""
-		},
-		{
-			"title": "Ravioli",
-			"price": 100,
-			"icon": ""
-		},
-		{
-			"title": "Çıtır ravioli",
-			"price": 100,
-			"icon": ""
-		},
-		{
-			"title": "Üç renkli ravioli",
-			"price": 100,	
-			"icon": ""
-		}
-	],
-	"crepes": [
-		{
-			"title": "Peynirli krep",
-			"price": 100,
-			"icon": ""
-		},
-		{
-			"title": "Etli krep",
-			"price": 100,
-			"icon": ""
-		},
-		{
-			"title": "Tavuklu krep",
-			"price": 100,
-			"icon": ""
-		},
-		{
-			"title": "Köfteli krep",
-			"price": 100,
-			"icon": ""
-		},
-		{
-			"title": "Tavuk mantarlı krep",
-			"price": 100,
-			"icon": ""
-		},
-		{
-			"title": "Et mantarlı krep",
-			"price": 100,
-			"icon": ""
-		},
-		{
-			"title": "Vejetaryen krep",
-			"price": 100,
-			"icon": ""
-		},
-		{
-			"title": "Bolonez soslu krep",
-			"price": 100,
-			"icon": ""
-		},
-		{
-			"title": "Qesadillas etli krep",
-			"price": 100,
-			"icon": ""
-		},
-		{
-			"title": "Qesadillas tavuklu krep",
-			"price": 100,
-			"icon": ""
-		}
-	],
-	"fajitas": [
-		{
-			"title": "Tavuk fajita",
-			"price": 100,
-			"icon": ""
-		},
-		{
-			"title": "Et fajita",
-			"price": 100,
-			"icon": ""
-		},
-		{
-			"title": "Kombin fajita",
-			"price": 100,
-			"icon": ""
-		}
-	],
-	"meatGrill": [
-		{
-			"title": "Karışık ızgara tabağı",
-			"price": 100,
-			"icon": ""
-		},
-		{
-			"title": "Lord orta karışık tabak",
-			"price": 100,
-			"icon": ""
-		},
-		{
-			"title": "Izgara dana antrikot",
-			"price": 100,
-			"icon": ""
-		},
-		{
-			"title": "Izgara köfte",
-			"price": 100,
-			"icon": ""
-		},
-		{
-			"title": "Peynirli dana köfte",
-			"price": 100,
-			"icon": ""
-		},
-		{
-			"title": "Lord özel köfte",
-			"price": 100,
-			"icon": ""
-		},
-		{
-			"title": "Çoban et kavurma",
-			"price": 100,
-			"icon": ""
-		},
-		{
-			"title": "Didik et kavurma",
-			"price": 100,
-			"icon": ""
-		},
-		{
-			"title": "Çökertme et",
-			"price": 100,
-			"icon": ""
-		},
-		{
-			"title": "Güveç kapağı",
-			"price": 100,
-			"icon": ""
-		},
-		{
-			"title": "Lord kebap",
-			"price": 100,
-			"icon": ""
-		},
-		{
-			"title": "Kuzu pirzola",
-			"price": 100,
-			"icon": ""
-		}
-	],
-	"whiteMeats": [
-		{
-			"title": "Izgara tavuk pirzola",
-			"price": 100,
-			"icon": ""
-		},
-		{
-			"title": "Izgara tavuk bonfile",
-			"price": 100,
-			"icon": ""
-		},
-		{
-			"title": "Dağ kekiği ile ızgara tavuk",
-			"price": 100,
-			"icon": ""
-		},
-		{
-			"title": "Tavuk mantarlı",
-			"price": 100,
-			"icon": ""
-		},
-		{
-			"title": "Tavuk şinitzel",
-			"price": 100,
-			"icon": ""
-		},
-		{
-			"title": "Cheddar soslu tavuk köftesi",
-			"price": 100,
-			"icon": ""
-		},
-		{
-			"title": "Beğendi",
-			"price": 100,	
-			"icon": ""
-		}
-	],
-	"panFried": [
-		{
-			"title": "Köri soslu tavuk",
-			"price": 100,
-			"icon": ""
-		},
-		{
-			"title": "Kremalı soya soslu tavuk",
-			"price": 100,
-			"icon": ""
-		},
-		{
-			"title": "Barbekü soslu tavuk",
-			"price": 100,
-			"icon": ""
-		},
-		{
-			"title": "Acı soslu tavuk",
-			"price": 100,
-			"icon": ""
-		},
-		{
-			"title": "Sri Lanka soslu tavuk",
-			"price": 100,
-			"icon": ""
-		},
-		{
-			"title": "Üç peynirli soslu tavuk",
-			"price": 100,
-			"icon": ""
-		},
-		{
-			"title": "Meksika tavuk",
-			"price": 100,
-			"icon": ""
-		},
-		{
-			"title": "Stir fry tavuk",
-			"price": 100,
-			"icon": ""
-		},
-		{
-			"title": "Pilavlı çoban tavuk",
-			"price": 100,
-			"icon": ""
-		},
-		{
-			"title": "Pilavlı didik kavurma",
-			"price": 100,
-			"icon": ""
-		},
-		{
-			"title": "Pilavlı kavurma tava",
-			"price": 100,
-			"icon": ""
-		}
-	]
-}
+	{
+		"breakfast": [
+			{
+				"title": "Günün çorbası",
+				"price": 100,
+				"icon": "/show/tea.jpeg"
+			},
+			{
+				"title": "Hızlı kahvaltı",
+				"price": 100,
+				"icon": "/show/tea.jpeg"
+			},
+			{
+				"title": "Lord kahvaltı tabağı",
+				"price": 100,
+				"icon": "/show/tea.jpeg"
+			},
+			{
+				"title": "Karışık kahvaltı",
+				"price": 100,
+				"icon": "/show/tea.jpeg"
+			},
+			{
+				"title": "Yumurta ekmeği",
+				"price": 100,
+				"icon": "/show/tea.jpeg"
+			},
+			{
+				"title": "Pankek tabağı",
+				"price": 100,	
+				"icon": "/show/tea.jpeg"
+			},
+			{
+				"title": "Kızarmış sosis",
+				"price": 100,
+				"icon": "/show/tea.jpeg"
+			},
+			{
+				"title": "Güveçte Bingöl kavurma",
+				"price": 100,
+				"icon": "/show/tea.jpeg"
+			},
+			{
+				"title": "Kızarmış hellim peyniri",
+				"price": 100,
+				"icon": "/show/tea.jpeg"
+			},
+			{
+				"title": "Peynir tabağı",
+				"price": 100,
+				"icon": "/show/tea.jpeg"
+			},
+			{
+				"title": "Sosis tabağı",
+				"price": 100,
+				"icon": "/show/tea.jpeg"
+			},
+			{
+				"title": "Zeytin tabağı",
+				"price": 100,
+				"icon": "/show/tea.jpeg"
+			},
+			{
+				"title": "Bal-reçel",
+				"price": 100,
+				"icon": "/show/tea.jpeg"
+			},
+			{
+				"title": "Tereyağı",
+				"price": 100,	
+				"icon": "/show/tea.jpeg"
+			},
+			{
+				"title": "Haşlanmış yumurta",
+				"price": 100,
+				"icon": "/show/tea.jpeg"
+			},
+			{
+				"title": "Kahvaltı sosu",
+				"price": 100,
+				"icon": "/show/tea.jpeg"
+			}
+		],
+		"eggs": [
+			{
+				"title": "Sade yumurta",
+				"price": 100,
+				"icon": "/show/tea.jpeg"
+			},
+			{
+				"title": "Sosisli yumurta",
+				"price": 100,
+				"icon": "/show/tea.jpeg"
+			},
+			{
+				"title": "Beyaz peynirli yumurta",
+				"price": 100,	
+				"icon": "/show/tea.jpeg"
+			},
+			{
+				"title": "Sucuklu yumurta",
+				"price": 100,
+				"icon": "/show/tea.jpeg"
+			},
+			{
+				"title": "Karışık yumurta",
+				"price": 100,
+				"icon": "/show/tea.jpeg"
+			},
+			{
+				"title": "Kızarmış yumurta",
+				"price": 100,
+				"icon": "/show/tea.jpeg"
+			}
+		],
+		"menemen": [
+			{
+				"title": "Klasik menemen",
+				"price": 100,
+				"icon": "/show/tea.jpeg"
+			},
+			{
+				"title": "Sosisli menemen",
+				"price": 100,
+				"icon": "/show/tea.jpeg"
+			},
+			{
+				"title": "Peynirli menemen",
+				"price": 100,
+				"icon": "/show/tea.jpeg"
+			},
+			{
+				"title": "Karışık menemen",
+				"price": 100,
+				"icon": "/show/tea.jpeg"
+			},
+			{
+				"title": "Kızarmış menemen",
+				"price": 100,	
+				"icon": "/show/tea.jpeg"
+			}
+		],
+		"omelette": [
+			{
+				"title": "Klasik omlet",
+				"price": 100,
+				"icon": "/show/tea.jpeg"
+			},
+			{
+				"title": "Sosisli omlet",
+				"price": 100,
+				"icon": "/show/tea.jpeg"
+			},
+			{
+				"title": "Beyaz peynirli omlet",
+				"price": 100,
+				"icon": "/show/tea.jpeg"
+			},
+			{
+				"title": "Karışık omlet",
+				"price": 100,
+				"icon": "/show/tea.jpeg"
+			},
+			{
+				"title": "Kızarmış omlet",
+				"price": 100,
+				"icon": "/show/tea.jpeg"
+			},
+			{
+				"title": "Sebzeli omlet",
+				"price": 100,
+				"icon": "/show/tea.jpeg"
+			}
+		],
+		"toast": [
+			{
+				"title": "Peynirli tost",
+				"price": 100,
+				"icon": "/show/tea.jpeg"
+			},
+			{
+				"title": "Beyaz peynir ve domatesli tost",
+				"price": 100,
+				"icon": "/show/tea.jpeg"
+			},
+			{
+				"title": "Özel tost",
+				"price": 100,
+				"icon": "/show/tea.jpeg"
+			},
+			{
+				"title": "Karışık tost",
+				"price": 100,
+				"icon": "/show/tea.jpeg"
+			},
+			{
+				"title": "Çift peynirli tost",
+				"price": 100,
+				"icon": "/show/tea.jpeg"
+			},
+			{
+				"title": "Hala tostu",
+				"price": 100,
+				"icon": "/show/tea.jpeg"
+			},
+			{
+				"title": "Leyla tostu",
+				"price": 100,
+				"icon": "/show/tea.jpeg"
+			},
+			{
+				"title": "Ayvalık tostu",
+				"price": 100,
+				"icon": "/show/tea.jpeg"
+			}
+		],
+		"flatbread": [
+			{
+				"title": "Karışık pide",
+				"price": 100,
+				"icon": "/show/tea.jpeg"
+			},
+			{
+				"title": "Karışık tost",
+				"price": 100,
+				"icon": "/show/tea.jpeg"
+			},
+			{
+				"title": "Hala tostu",
+				"price": 100,
+				"icon": "/show/tea.jpeg"
+			},
+			{
+				"title": "Karışık pide",
+				"price": 100,
+				"icon": "/show/tea.jpeg"
+			},
+			{
+				"title": "Kavurmalı tost",
+				"price": 100,
+				"icon": "/show/tea.jpeg"
+			}
+		],
+		"TurkishPancakes": [
+			{
+				"title": "Patatesli ve peynirli krep",
+				"price": 100,
+				"icon": "/show/tea.jpeg"
+			},
+			{
+				"title": "Peynirli krep",
+				"price": 100,
+				"icon": "/show/tea.jpeg"
+			},
+			{
+				"title": "Kıymalı ve peynirli krep",
+				"price": 100,
+				"icon": "/show/tea.jpeg"
+			},
+			{
+				"title": "Peynirli krep",
+				"price": 100,	
+				"icon": "/show/tea.jpeg"
+			}
+		],
+		"snacks": [
+			{
+				"title": "Cajun tavuk sepeti",
+				"price": 100,
+				"icon": "/show/tea.jpeg"
+			},
+			{
+				"title": "Baharatlı patates dilimleri",
+				"price": 100,	
+				"icon": "/show/tea.jpeg"
+			},
+			{
+				"title": "Kızarmış patates",
+				"price": 100,
+				"icon": "/show/tea.jpeg"
+			},
+			{
+				"title": "Tavuk nugget",
+				"price": 100,
+				"icon": "/show/tea.jpeg"
+			},
+			{
+				"title": "Küçük börek",
+				"price": 100,
+				"icon": "/show/tea.jpeg"
+			},
+			{
+				"title": "Soğan halkası",
+				"price": 100,
+				"icon": "/show/tea.jpeg"
+			},
+			{
+				"title": "Karışık tabaklar",
+				"price": 100,
+				"icon": "/show/tea.jpeg"
+			},
+			{
+				"title": "Sosis tabağı",
+				"price": 100,
+				"icon": "/show/tea.jpeg"
+			}
+		],
+		"coldSandwiches": [
+			{
+				"title": "Klasik sandviç",
+				"price": 100,
+				"icon": "/show/tea.jpeg"
+			},
+			{
+				"title": "Beyaz peynirli sandviç",
+				"price": 100,
+				"icon": "/show/tea.jpeg"
+			},
+			{
+				"title": "Ton balıklı sandviç",
+				"price": 100,
+				"icon": "/show/tea.jpeg"
+			}
+		],
+		"burgers": [
+			{
+				"title": "Klasik burger",
+				"price": 100,
+				"icon": "/show/tea.jpeg"
+			},
+			{
+				"title": "Peynirli burger",
+				"price": 100,
+				"icon": "/show/tea.jpeg"
+			},
+			{
+				"title": "Tavuk burger",
+				"price": 100,
+				"icon": "/show/tea.jpeg"
+			},
+			{
+				"title": "Mantar burger",
+				"price": 100,
+				"icon": "/show/tea.jpeg"
+			},
+			{
+				"title": "Çift lord burger",
+				"price": 100,
+				"icon": "/show/tea.jpeg"
+			},
+			{
+				"title": "Dinamit burger",
+				"price": 100,
+				"icon": "/show/tea.jpeg"
+			}
+		],
+		"pizza": [
+			{
+				"title": "Margarita pizza",
+				"price": 100,
+				"icon": "/show/tea.jpeg"
+			},
+			{
+				"title": "Sosisli pizza",
+				"price": 100,
+				"icon": "/show/tea.jpeg"
+			},
+			{
+				"title": "Tavuklu pizza",
+				"price": 100,
+				"icon": "/show/tea.jpeg"
+			},
+			{
+				"title": "Vejetaryen pizza",
+				"price": 100,
+				"icon": "/show/tea.jpeg"
+			},
+			{
+				"title": "Karışık pizza",
+				"price": 100,
+				"icon": "/show/tea.jpeg"
+			},
+			{
+				"title": "Kavurmalı pizza",
+				"price": 100,
+				"icon": "/show/tea.jpeg"
+			},
+			{
+				"title": "Üç peynirli pizza",
+				"price": 100,
+				"icon": "/show/tea.jpeg"
+			},
+			{
+				"title": "Ton ton pizza",
+				"price": 100,
+				"icon": "/show/tea.jpeg"
+			},
+			{
+				"title": "Fajita pizza",
+				"price": 100,
+				"icon": "/show/tea.jpeg"
+			},
+			{
+				"title": "Turist pizza",
+				"price": 100,	
+				"icon": "/show/tea.jpeg"
+			}
+		],
+		"salads": [
+			{
+				"title": "Sezar salata",
+				"price": 100,
+				"icon": "/show/tea.jpeg"
+			},
+			{
+				"title": "Biftek salata",
+				"price": 100,
+				"icon": "/show/tea.jpeg"
+			},
+			{
+				"title": "Akdeniz salata",
+				"price": 100,
+				"icon": "/show/tea.jpeg"
+			},
+			{
+				"title": "Ton balıklı salata",
+				"price": 100,
+				"icon": "/show/tea.jpeg"
+			},
+			{
+				"title": "Cajun salata",
+				"price": 100,
+				"icon": "/show/tea.jpeg"
+			},
+			{
+				"title": "Izgara tavuk salata",
+				"price": 100,
+				"icon": "/show/tea.jpeg"
+			},
+			{
+				"title": "Izgara köfte salata",
+				"price": 100,
+				"icon": "/show/tea.jpeg"
+			},
+			{
+				"title": "Çoban salata",
+				"price": 100,
+				"icon": "/show/tea.jpeg"
+			}
+		],
+		"pasta": [
+			{
+				"title": "Bolonez makarna",
+				"price": 100,
+				"icon": "/show/tea.jpeg"
+			},
+			{
+				"title": "Fettucine alfredo",
+				"price": 100,
+				"icon": "/show/tea.jpeg"
+			},
+			{
+				"title": "Acılı penne",
+				"price": 100,
+				"icon": "/show/tea.jpeg"
+			},
+			{
+				"title": "Napolitan makarna",
+				"price": 100,
+				"icon": "/show/tea.jpeg"
+			},
+			{
+				"title": "Köri soslu penne",
+				"price": 100,
+				"icon": "/show/tea.jpeg"
+			},
+			{
+				"title": "Üç peynirli fettucine",
+				"price": 100,
+				"icon": "/show/tea.jpeg"
+			},
+			{
+				"title": "Köfteli penne",
+				"price": 100,
+				"icon": "/show/tea.jpeg"
+			},
+			{
+				"title": "Ravioli",
+				"price": 100,
+				"icon": "/show/tea.jpeg"
+			},
+			{
+				"title": "Çıtır ravioli",
+				"price": 100,
+				"icon": "/show/tea.jpeg"
+			},
+			{
+				"title": "Üç renkli ravioli",
+				"price": 100,	
+				"icon": "/show/tea.jpeg"
+			}
+		],
+		"crepes": [
+			{
+				"title": "Peynirli krep",
+				"price": 100,
+				"icon": "/show/tea.jpeg"
+			},
+			{
+				"title": "Etli krep",
+				"price": 100,
+				"icon": "/show/tea.jpeg"
+			},
+			{
+				"title": "Tavuklu krep",
+				"price": 100,
+				"icon": "/show/tea.jpeg"
+			},
+			{
+				"title": "Köfteli krep",
+				"price": 100,
+				"icon": "/show/tea.jpeg"
+			},
+			{
+				"title": "Tavuk mantarlı krep",
+				"price": 100,
+				"icon": "/show/tea.jpeg"
+			},
+			{
+				"title": "Et mantarlı krep",
+				"price": 100,
+				"icon": "/show/tea.jpeg"
+			},
+			{
+				"title": "Vejetaryen krep",
+				"price": 100,
+				"icon": "/show/tea.jpeg"
+			},
+			{
+				"title": "Bolonez soslu krep",
+				"price": 100,
+				"icon": "/show/tea.jpeg"
+			},
+			{
+				"title": "Qesadillas etli krep",
+				"price": 100,
+				"icon": "/show/tea.jpeg"
+			},
+			{
+				"title": "Qesadillas tavuklu krep",
+				"price": 100,
+				"icon": "/show/tea.jpeg"
+			}
+		],
+		"fajitas": [
+			{
+				"title": "Tavuk fajita",
+				"price": 100,
+				"icon": "/show/tea.jpeg"
+			},
+			{
+				"title": "Et fajita",
+				"price": 100,
+				"icon": "/show/tea.jpeg"
+			},
+			{
+				"title": "Kombin fajita",
+				"price": 100,
+				"icon": "/show/tea.jpeg"
+			}
+		],
+		"meatGrill": [
+			{
+				"title": "Karışık ızgara tabağı",
+				"price": 100,
+				"icon": "/show/tea.jpeg"
+			},
+			{
+				"title": "Lord orta karışık tabak",
+				"price": 100,
+				"icon": "/show/tea.jpeg"
+			},
+			{
+				"title": "Izgara dana antrikot",
+				"price": 100,
+				"icon": "/show/tea.jpeg"
+			},
+			{
+				"title": "Izgara köfte",
+				"price": 100,
+				"icon": "/show/tea.jpeg"
+			},
+			{
+				"title": "Peynirli dana köfte",
+				"price": 100,
+				"icon": "/show/tea.jpeg"
+			},
+			{
+				"title": "Lord özel köfte",
+				"price": 100,
+				"icon": "/show/tea.jpeg"
+			},
+			{
+				"title": "Çoban et kavurma",
+				"price": 100,
+				"icon": "/show/tea.jpeg"
+			},
+			{
+				"title": "Didik et kavurma",
+				"price": 100,
+				"icon": "/show/tea.jpeg"
+			},
+			{
+				"title": "Çökertme et",
+				"price": 100,
+				"icon": "/show/tea.jpeg"
+			},
+			{
+				"title": "Güveç kapağı",
+				"price": 100,
+				"icon": "/show/tea.jpeg"
+			},
+			{
+				"title": "Lord kebap",
+				"price": 100,
+				"icon": "/show/tea.jpeg"
+			},
+			{
+				"title": "Kuzu pirzola",
+				"price": 100,
+				"icon": "/show/tea.jpeg"
+			}
+		],
+		"whiteMeats": [
+			{
+				"title": "Izgara tavuk pirzola",
+				"price": 100,
+				"icon": "/show/tea.jpeg"
+			},
+			{
+				"title": "Izgara tavuk bonfile",
+				"price": 100,
+				"icon": "/show/tea.jpeg"
+			},
+			{
+				"title": "Dağ kekiği ile ızgara tavuk",
+				"price": 100,
+				"icon": "/show/tea.jpeg"
+			},
+			{
+				"title": "Tavuk mantarlı",
+				"price": 100,
+				"icon": "/show/tea.jpeg"
+			},
+			{
+				"title": "Tavuk şinitzel",
+				"price": 100,
+				"icon": "/show/tea.jpeg"
+			},
+			{
+				"title": "Cheddar soslu tavuk köftesi",
+				"price": 100,
+				"icon": "/show/tea.jpeg"
+			},
+			{
+				"title": "Beğendi",
+				"price": 100,	
+				"icon": "/show/tea.jpeg"
+			}
+		],
+		"panFried": [
+			{
+				"title": "Köri soslu tavuk",
+				"price": 100,
+				"icon": "/show/tea.jpeg"
+			},
+			{
+				"title": "Kremalı soya soslu tavuk",
+				"price": 100,
+				"icon": "/show/tea.jpeg"
+			},
+			{
+				"title": "Barbekü soslu tavuk",
+				"price": 100,
+				"icon": "/show/tea.jpeg"
+			},
+			{
+				"title": "Acı soslu tavuk",
+				"price": 100,
+				"icon": "/show/tea.jpeg"
+			},
+			{
+				"title": "Sri Lanka soslu tavuk",
+				"price": 100,
+				"icon": "/show/tea.jpeg"
+			},
+			{
+				"title": "Üç peynirli soslu tavuk",
+				"price": 100,
+				"icon": "/show/tea.jpeg"
+			},
+			{
+				"title": "Meksika tavuk",
+				"price": 100,
+				"icon": "/show/tea.jpeg"
+			},
+			{
+				"title": "Stir fry tavuk",
+				"price": 100,
+				"icon": "/show/tea.jpeg"
+			},
+			{
+				"title": "Pilavlı çoban tavuk",
+				"price": 100,
+				"icon": "/show/tea.jpeg"
+			},
+			{
+				"title": "Pilavlı didik kavurma",
+				"price": 100,
+				"icon": "/show/tea.jpeg"
+			},
+			{
+				"title": "Pilavlı kavurma tava",
+				"price": 100,
+				"icon": "/show/tea.jpeg"
+			}
+		]
+	}

@@ -1,11 +1,25 @@
 {
   "buttonNav": {
-    "wellcome": "Welcome to Lord of Cafe",
-    "localeSwitcher": "Change Language",
     "food": [
       {
         "key": "breakfast",
         "title": "Breakfast"
+      },
+      {
+        "key": "eggs",
+        "title": "Eggs"
+      },
+      {
+        "key": "menemen",
+        "title": "Menemen"
+      },
+      {
+        "key": "omelette",
+        "title": "Omelette"
+      },
+      {
+        "key": "flatbread",
+        "title": "Flatbread"
       },
       {
         "key": "toast",
@@ -124,8 +138,24 @@
         "title": "Tea"
       },
       {
-        "key": "coffee",
-        "title": "Coffee"
+        "key": "turkishCoffee",
+        "title": "Turkish Coffee"
+      },
+      {
+        "key": "specialCoffee",
+        "title": "Special Coffee"
+      },
+      {
+        "key": "regionalCoffee",
+        "title": "Regional Coffee"
+      },
+      {
+        "key": "hotChocolate",
+        "title": "Hot Chocolate"
+      },
+      {
+        "key": "coldCoffee",
+        "title": "Cold Coffee"
       },
       {
         "key": "frappe",
@@ -204,5 +234,41 @@
         "href": "/hookah"
       }
     ]
+  },
+  "groupTitles": {
+    "breakfast": "Breakfast",
+    "eggs": "Eggs",
+    "menemen": "Menemen",
+    "omelette": "Omelette",
+    "toast": "Toast",
+    "flatbread": "Flatbread",
+    "TurkishPancakes": "Turkish Pancakes",
+    "snacks": "Snacks",
+    "coldSandwiches": "Cold Sandwiches",
+    "burgers": "Burgers",
+    "pizza": "Pizza",
+    "salads": "Salads",
+    "pasta": "Pasta",
+    "crepes": "Crepes",
+    "fajitas": "Fajitas",
+    "meatGrill": "Meat Grill",
+    "whiteMeats": "White Meats",
+    "panFried": "Pan-fried",
+    "dessert": "Dessert",
+    "tea": "Tea",
+    "turkishCoffee": "Turkish Coffee",
+    "specialCoffee": "Special Coffee",
+    "regionalCoffee": "Regional Coffee",
+    "hotChocolate": "Hot Chocolate",
+    "coldCoffee": "Cold Coffee",
+    "frappe": "Frappe",
+    "milkshake": "Milkshake",
+    "smoothie": "Smoothie",
+    "frozenDrinks": "Frozen Drinks",
+    "vitamins": "Vitamins",
+    "coldDrinks": "Cold Drinks",
+    "classicHookah": "Classic Hookah",
+    "specialHookah": "Special Hookah",
+    "hookahFlavors": "Hookah Flavors"
   }
 }

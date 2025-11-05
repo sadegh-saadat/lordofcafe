@@ -8,7 +8,7 @@ export default async function FoodCategoryPage(props: PageProps<'/[locale]/food/
 
   const groups = await getCategoryGroups({ locale, category });
 
-  if (!groups) { notFound();}
+  if (!groups) { notFound() }
 
   return (
     <CategoryUi groups={groups} />

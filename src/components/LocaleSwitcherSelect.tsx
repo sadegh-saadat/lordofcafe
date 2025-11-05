@@ -4,7 +4,8 @@ import { usePathname, useRouter } from "@/i18n/navigation"
 import { cn } from "@/utils/twMerge";
 import { Locale, useLocale } from "next-intl";
 import { useParams } from "next/navigation";
-import React, { startTransition, useState } from 'react'
+import React, { startTransition } from 'react'
+import { Menu, MenuButton, MenuItem, MenuItems } from '@headlessui/react'
 
 type Option = {
   value: Locale;
@@ -27,11 +28,8 @@ export default function LocaleSwitcherSelect({
   const params = useParams();
   const locale = useLocale();
 
-  const [isOpen, setIsOpen] = useState(false);
 
   function handleSelect(nextLocale: Locale) {
-    setIsOpen(false);
-    
     startTransition(() => {
       router.replace(
         // @ts-expect-error Next.js types are not correctly inferring pathname and params
@@ -42,33 +40,38 @@ export default function LocaleSwitcherSelect({
   }
 
   return (
-    <div className="relative w-fit">
-      <label className="text-amber-800 mr-2">{label}</label>
-      <button 
-      aria-expanded={isOpen}
-      aria-haspopup='true'
-      onClick={() => setIsOpen(!isOpen)}
-      className="bg-amber-800 rounded-full px-4 py-2 "
-      >
-        <span>
-          {options.find((opt) => opt.value === locale)?.label}
+    <Menu as="div" className="relative w-fit h-30">
+      <MenuButton className="p-2 rounded-full bg-gray-800 flex items-center cursor-pointer select-none outline-none">
+        <label className="text-amber-800 mx-2">{label}</label>
+        <span className="px-6 py-2 bg-amber-800 rounded-full text-absolute-100">
+          {options.find((opt) => opt.value === locale)?.label || label}
         </span>
-      </button>
-      <ul className={cn(
-        "absolute top-10 right-0 z-10 mt-1 rounded-[8px] bg-amber-800 text-absolute-100 flex flex-col items-center justify-between overflow-hidden px-4 transition-all origin-top duration-300 ease-in-out",
-        isOpen ? " h-24" : " h-0"
-      )}>
-        {options.map((option) => (
-          <li key={option.value} className="w-full">
-            <button
-            onClick={() => handleSelect(option.value)}
-            className="w-full py-1"
-            >
-              {option.label}
-            </button>
-          </li>
-        ))}
-      </ul>
-    </div>
+      </MenuButton>
+
+      <MenuItems
+        transition
+        className={cn(
+          "mt-2 w-full bg-gray-800 text-absolute-100 rounded-2xl overflow-hidden outline-none",
+          "flex flex-col items-center gap-1 py-1",
+          "transition duration-300 ease-out",
+          "data-closed:opacity-0 data-closed:-translate-y-1 data-closed:scale-95"
+        )}
+      >
+        {options
+          .filter((option) => option.value !== locale)
+          .map((option) => (
+            <MenuItem key={option.value}>
+                <button
+                  onClick={() => handleSelect(option.value)}
+                  className={cn(
+                    "px-6 py-2 cursor-pointer text-amber-800",
+                  )}
+                >
+                  {option.label}
+                </button>
+            </MenuItem>
+          ))}
+      </MenuItems>
+    </Menu>
   )
 }

@@ -3,72 +3,72 @@
 		{
 			"title": "Kremalı pasta çeşitleri",
 			"price": 100,
-			"icon": ""
+			"icon": "/show/tea.jpeg"
 		},
 		{
 			"title": "San Sebastian cheesecake",
 			"price": 100,
-			"icon": ""
+			"icon": "/show/tea.jpeg"
 		},
 		{
 			"title": "Sütlaç",
 			"price": 100,
-			"icon": ""
+			"icon": "/show/tea.jpeg"
 		},
 		{
 			"title": "Sufle",
 			"price": 100,
-			"icon": ""
+			"icon": "/show/tea.jpeg"
 		},
 		{
 			"title": "Katmer",
 			"price": 100,
-			"icon": ""
+			"icon": "/show/tea.jpeg"
 		},
 		{
 			"title": "Meyveli katmer",
 			"price": 100,
-			"icon": ""
+			"icon": "/show/tea.jpeg"
 		},
 		{
 			"title": "Künefe",
 			"price": 100,
-			"icon": ""
+			"icon": "/show/tea.jpeg"
 		},
 		{
 			"title": "Dondurma (4 top)",
 			"price": 100,
-			"icon": ""
+			"icon": "/show/tea.jpeg"
 		},
 		{
 			"title": "Dondurma topu",
 			"price": 100,
-			"icon": ""
+			"icon": "/show/tea.jpeg"
 		},
 		{
 			"title": "Lord waffle aşkı",
 			"price": 100,
-			"icon": ""
+			"icon": "/show/tea.jpeg"
 		},
 		{
 			"title": "Kuruyemiş tabağı",
 			"price": 100,
-			"icon": ""
+			"icon": "/show/tea.jpeg"
 		},
 		{
 			"title": "Meyveli waffle",
-			"price": 100,	
-			"icon": ""
+			"price": 100,
+			"icon": "/show/tea.jpeg"
 		},
 		{
 			"title": "Porsiyon meyve tabağı",
 			"price": 100,
-			"icon": ""
+			"icon": "/show/tea.jpeg"
 		},
 		{
 			"title": "Özel meyve tabağı",
 			"price": 100,
-			"icon": ""
+			"icon": "/show/tea.jpeg"
 		}
 	]
 }

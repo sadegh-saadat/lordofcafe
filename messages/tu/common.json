@@ -1,7 +1,5 @@
 {
   "buttonNav": {
-    "wellcome": "Lord of Cafe'ye Hoş Geldiniz",
-    "localeSwitcher": "Dili Değiştir",
     "food": [
       {
         "key": "breakfast",
@@ -82,8 +80,24 @@
         "title": "Çay"
       },
       {
-        "key": "coffee",
-        "title": "Kahve"
+        "key": "turkishCoffee",
+        "title": "Türk Kahvesi"
+      },
+      {
+        "key": "specialCoffee",
+        "title": "Özel Kahve"
+      },
+      {
+        "key": "regionalCoffee",
+        "title": "Bölgesel Kahve"
+      },
+      {
+        "key": "hotChocolate",
+        "title": "Sıcak Çikolata"
+      },
+      {
+        "key": "coldCoffee",
+        "title": "Soğuk Kahve"
       },
       {
         "key": "frappe",
@@ -162,5 +176,41 @@
         "href": "/hookah"
       }
     ]
+  },
+  "groupTitles": {
+    "breakfast": "Kahvaltı",
+    "eggs": "Yumurtalar",
+    "menemen": "Menemen",
+    "omelette": "Omlet",
+    "toast": "Tost",
+    "flatbread": "Düz Ekmek",
+    "TurkishPancakes": "Gözleme",
+    "snacks": "Atıştırmalıklar",
+    "coldSandwiches": "Soğuk Sandviçler",
+    "burgers": "Burgerler",
+    "pizza": "Pizza",
+    "salads": "Salatalar",
+    "pasta": "Makarna",
+    "crepes": "Krep",
+    "fajitas": "Fajita",
+    "meatGrill": "Et Izgara",
+    "whiteMeats": "Beyaz Etler",
+    "panFried": "Tavada Yemekler",
+    "dessert": "Tatlı",
+    "tea": "Çay",
+    "turkishCoffee": "Türk Kahvesi",
+    "specialCoffee": "Özel Kahve",
+    "regionalCoffee": "Bölgesel Kahve",
+    "hotChocolate": "Sıcak Çikolata",
+    "coldCoffee": "Soğuk Kahve",
+    "frappe": "Frappe",
+    "milkshake": "Milkshake",
+    "smoothie": "Smoothie",
+    "frozenDrinks": "Donmuş İçecekler",
+    "vitamins": "Vitamin İçecekleri",
+    "coldDrinks": "Soğuk İçecekler",
+    "classicHookah": "Klasik Nargile",
+    "specialHookah": "Özel Nargile",
+    "hookahFlavors": "Nargile Aromaları"
   }
 }

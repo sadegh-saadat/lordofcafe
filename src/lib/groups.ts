@@ -1,7 +1,11 @@
 
 // ======================= Drink Groups =======================
 export const DRINK_GROUPS = {
-  coffee: ['turkishCoffee', 'specialCoffee', 'regionalCoffee', 'hotChocolate', 'coldCoffee'],
+  turkishCoffee: ['turkishCoffee'],
+  specialCoffee: ['specialCoffee'],
+  regionalCoffee: ['regionalCoffee'],
+  hotChocolate: ['hotChocolate'],
+  coldCoffee: ['coldCoffee'],
   tea: ['tea'],
   frappe: ['frappe'],
   milkshake: ['milkshake'],
@@ -15,8 +19,12 @@ export type DrinkCategory = keyof typeof DRINK_GROUPS;
 
 // ======================= Food Groups =======================
 export const FOOD_GROUPS = {
-  breakfast: ['breakfast', 'eggs', 'menemen', 'omelette'],
-  toast: ['toast', 'flatbread'],
+  breakfast: ['breakfast'],
+  eggs: ['eggs'],
+  menemen: ['menemen'],
+  omelette: ['omelette'],
+  toast: ['toast'],
+  flatbread: ['flatbread'],
   pancake: ['TurkishPancakes'],
   snacks: ['snacks'],
   coldSandwiches: ['coldSandwiches'],
@@ -35,9 +43,13 @@ export type FoodCategory = keyof typeof FOOD_GROUPS;
 
 // ======================= Hookah Groups =======================
 export const HOOKAH_GROUPS = {
-  classic: ['classicHookah'],
-  special: ['specialHookah'],
-  flavors: ['hookahFlavors'],
+  alFakher: ['alFakher'],
+  special: ['special'],
+  specialBlends: ['specialBlends'],
+  nakhl: ['nakhl'],
+  bahrein: ['bahrain'],
+  naturals: ['naturals'],
+  starbuzz: ['starbuzz'],
 } as const;
 
 export type HookahCategory = keyof typeof HOOKAH_GROUPS;
