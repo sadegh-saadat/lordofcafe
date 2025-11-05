@@ -60,7 +60,7 @@ export default function ButtonNav() {
             "absolute bottom-0 bg-amber-800 rounded-[8px_8px_34px_8px] px-2 py-4 w-[80vw] h-[28vh] right-0 origin-bottom-right flex flex-col items-start justify-between transform transition-all duration-300 ease-in-out",
             active ? "opacity-100 translate-x-0" : "opacity-0 translate-x-4"
           )}>
-            <div className="flex flex-col items-start justify-between h-full">
+            <div className="flex flex-col items-start justify-between h-full text-black">
               {buttonUp.map((item) => {
                 const isActive = pathname === item.href || pathname.startsWith(`${item.href}/`);
                 return (
@@ -87,7 +87,7 @@ export default function ButtonNav() {
               })}
               <Link
               href="/home"
-              className="flex items-center text-2xl px-4 py-1 gap-3"
+              className="flex items-center text-2xl px-4 py-1 gap-3 text-black"
               >
                 <Image
                   alt="icon"

@@ -41,7 +41,7 @@ export default function LocaleSwitcherSelect({
 
   return (
     <Menu as="div" className="relative w-fit h-30">
-      <MenuButton className="p-2 rounded-full bg-gray-800 flex items-center cursor-pointer select-none outline-none">
+      <MenuButton className="p-2 rounded-full bg-gray-800 flex items-center cursor-pointer select-none outline-none font-medium">
         <label className="text-amber-800 mx-2">{label}</label>
         <span className="px-6 py-2 bg-amber-800 rounded-full text-absolute-100">
           {options.find((opt) => opt.value === locale)?.label || label}

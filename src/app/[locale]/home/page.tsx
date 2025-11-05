@@ -23,7 +23,7 @@ export default function Home() {
   const buttonUp: ButtonUpItem[] = tButton.raw('buttonUp') as ButtonUpItem[];
 
   return (
-    <section className="min-h-screen bg-gray-950 flex flex-col items-center justify-center">
+    <section className="min-h-screen bg-gray-950 flex flex-col items-center justify-center text-black">
       <motion.div
         initial={{ opacity: 0, y: 200 }}
         animate={{ opacity: 1, y: 0 }}
@@ -41,7 +41,7 @@ export default function Home() {
             className="w-full"
             key={index}>
               <Link 
-                className="bg-amber-800 rounded-full flex items-center text-left gap-2 px-4 py-2"
+                className="bg-amber-800 rounded-full flex items-center text-left gap-2 px-4 py-2 font-medium"
                 href={item.href} 
               >
                 <Image 

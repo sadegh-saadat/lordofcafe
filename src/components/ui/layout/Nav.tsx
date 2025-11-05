@@ -27,7 +27,7 @@ export default function Nav() {
   return (
     <div 
       className={cn(
-        "fixed bottom-2 w-full h-20 px-2 pb-2 z-50",
+        "fixed bottom-2 w-full h-20 px-2 pb-2 z-50 text-black",
         pathname === "/dessert/[category]" ? "hidden" : "block"
       )}
     >

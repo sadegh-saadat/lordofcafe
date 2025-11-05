@@ -54,7 +54,7 @@ export default function DessertCategory({groups}: { groups: Groups[] }) {
                       height={100}
                       priority={i < 10}
                       quality={10}
-                      className="rounded-lg border-2 w-full border-slate-800"
+                      className="rounded-lg border-2 w-full border-amber-600/50"
                       />
                       <div className="w-full h-full flex flex-col items-center justify-between gap-4">
                         <p
