@@ -23,7 +23,7 @@ export default function Home() {
   const buttonUp: ButtonUpItem[] = tButton.raw('buttonUp') as ButtonUpItem[];
 
   return (
-    <section className="min-h-screen bg-gray-950 grid place-items-center">
+    <section className="min-h-screen bg-gray-950 flex flex-col items-center justify-center">
       <motion.div
         initial={{ opacity: 0, y: 200 }}
         animate={{ opacity: 1, y: 0 }}
